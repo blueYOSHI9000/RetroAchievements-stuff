@@ -1,0 +1,427 @@
+//Note: These were mainly made for RetroAchievemnts, it might not fit other purposes
+
++------+------+------ - -  -  -   -    -
+|Battle| Stage|      (found at 0x33c576 in EU version)
+|  ID  |  ID  | Name
++------+------+------ - -  -  -   -    -
+| 5000 | 0014 | Baby Bowser (tutorial in the past)
+| 5001 | 0092 | Junior Shrooboid (tutorial in the present)
+| 600f | 0084 | Shroobs (M&L fucking die in Hollijolli Village)
+| 5003 | 0084 | Two Shroobs (babies in Hollijolli Village)
+| 6006 | 0040 | Hammer Bros.
+| 5005 | 0043 | Spiny Shroopa (hammer tutorial)
+| 600c | 0050 | Swiggler
+| 7007 | 006f | Kamek
+| 2000 | 00db | Sunnycide
+| 8008 | 0239 | Shrooboid Brat
+| 8014 | 0132 | Petey Piranha
+| 2008 | 0158 | Mrs. Thwomp
+| 2012 | 0196 | Bowser Duo
+| 201b | 0167 | Commander Shroob
+| 2027 | 01cc | Elder Shrooboid
+| 9016 | 0225 | Younger Princess Shroob
+| 2028 | 0247 | Elder Princess Shroob
+| 2029 | 0095 | Shrowser
++------+------+------ - -  -  -   -    -
+
++------+------ - -  -  -   -    -
+| Area |      (found at 0x209c80 in EU version)
+|  ID  | Name
++------+------ - -  -  -   -    -
+| 0010 |Intro cutscene
+| 0011 |Intro cutscene
+| 0013 |Peach's Castle (Past)
+| 0014 |Peach's Castle (Past)
+| 0016 |Peach's Castle (Past) Shroob Attack Cutscene
+| 0018 |TV Show Intro Cutscene | counts as Peach's Castle (Present)
+| 0019 |TV Show Intro Cutscene | counts as Peach's Castle (Present)
+| 001a |TV Show Intro Cutscene | counts as Peach's Castle (Present)
+| 001b |TV Show Intro Cutscene | counts as Peach's Castle (Present)
+| 001c |TV Show Intro Cutscene | counts as Peach's Castle (Present)
+| 001d |TV Show Intro Cutscene | counts as Peach's Castle (Present)
+| 001e |TV Show Intro Cutscene | counts as Peach's Castle (Present)
+| 0092 |Peach's Castle Main Hall
+| 0093 |Peach's Castle Main Hall
+| 0096 |Peach's Castle 1st floor
+| 0097 |Peach's Castle 1st floor
+| 0098 |Peach's Castle 1st floor
+| 0099 |Peach's Castle, Shroom Shop
+| 009a |Peach's Castle 1st floor
+| 009b |Peach's Castle 1st floor (garden out back)
+| 009c |Peach's Castle 1st floor
+| 009d |Peach's Castle 1st floor
+| 009e |Peach's Castle Garden
+| 009f |Peach's Castle Garden
+| 00a2 |Peach's Castle Garden
+| 00a3 |Peach's Castle Garden
+| 00a4 |Peach's Castle 1st floor
+| 00a5 |Peach's Castle Guest Room (?)
+| 00a6 |Peach's Castle, Toadsworth's Room
+| 00a7 |Peach's Castle 2nd floor
+| 00a8 |Peach's Castle, Library
+| 00a9 |Peach's Castle 2nd floor
+| 00aa |Peach's Castle 2nd floor
+| 00ab |Peach's Castle 2nd floor
+| 00ac |Peach's Castle, Princess Peach's Room
+| 00ad |Peach's Castle, long staircase
+| 00ae |Peach's Castle, Viewing Platform
+| 00af |Peach's Castle 2nd floor
+| 00b0 |Peach's Castle 2nd floor
+| 00b1 |Peach's Castle 3rd floor
+| 00b2 |Peach's Castle 3rd floor
+| 00b3 |Peach's Castle 3rd floor
+| 00b4 |Peach's Castle 3rd floor
+| 00b5 |Peach's Castle Underground
+| 00b6 |Peach's Castle Underground
+| 00b7 |Peach's Castle Underground
+| 00b8 |Peach's Castle Underground
+| 00ba |Peach's Castle Underground
+| 00b9 |Peach's Castle Underground
+| 00c2 |Peach's Castle Garden (Spin Tutorial)
+| 00c3 |Peach's Castle Garden (Ball Tutorial)
+| 00c4 |Peach's Castle Garden (Spin the babies Tutorial)
+| 00c5 |Peach's Castle Garden (crush the babies Tutorial)
+| 0080 |Near Hollijolli Village
+| 0081 |Near Hollijolli Village
+| 0082 |Near Hollijolli Village
+| 0083 |Near Hollijolli Village
+| 0084 |Hollijolli Village
+| 0085 |Hollijolli Village
+| 0086 |Hollijolli Village House
+| 0087 |Hollijolli Village House
+| 0088 |Hollijolli Village House
+| 0089 |Hollijolli Village House
+| 008a |Hollijolli Village
+| 008d |Koopa Cruiser
+| 008e |Koopa Cruiser
+| 008f |Koopa Cruiser
+| 0090 |Koopa Cruiser
+| 0241 |Peach's Castle (Past) - castle is attacked cutscene - worth crediting as Hollijolli Village imo
+| 00e8 |Bowser's Castle
+| 00e9 |Bowser's Castle
+| 00ea |Bowser's Castle
+| 00eb |Bowser's Castle
+| 00ed |Bowser's Castle
+| 00ec |Bowser's Castle
+| 00ee |Bowser's Castle
+| 00ef |Bowser's Castle
+| 00f0 |Bowser's Castle
+| 00f1 |Bowser's Castle
+| 00f2 |Bowser's Castle
+| 00f3 |Bowser's Castle
+| 00f4 |Bowser's Castle
+| 00f5 |Bowser's Castle
+| 00f6 |Bowser's Castle
+| 00f7 |Bowser's Castle
+| 00f8 |Bowser's Castle (Baby Bowser's room)
+| 001f |Toadwood Forest
+| 0020 |Toadwood Forest
+| 0021 |Toadwood Forest
+| 0022 |Toadwood Forest
+| 0023 |Toadwood Forest
+| 0024 |Toadwood Forest
+| 0025 |Toadwood Forest
+| 0026 |Toadwood Forest
+| 0027 |Toadwood Forest
+| 0028 |Toadwood Forest
+| 0029 |Toadwood Forest
+| 002a |Toadwood Forest
+| 002b |Toadwood Forest
+| 002c |Toadwood Forest
+| 002d |Toadwood Forest
+| 002e |Vim Factory (technically still on the Toadwood Forest map)
+| 003f |Vim Factory
+| 0040 |Vim Factory
+| 0055 |Vim Factory (Hammer Tutorial)
+| 0041 |Vim Factory
+| 0042 |Vim Factory
+| 0043 |Vim Factory (pipes)
+| 0044 |Vim Factory
+| 0045 |Vim Factory
+| 0046 |Vim Factory (tree)
+| 0047 |Vim Factory
+| 0048 |Vim Factory
+| 0049 |Vim Factory
+| 004a |Vim Factory
+| 004b |Vim Factory
+| 004c |Vim Factory
+| 004e |Vim Factory
+| 004f |Vim Factory
+| 0050 |Vim Factory (boss room)
+| 0057 |Yoshi's Island
+| 0058 |Yoshi's Island Village
+| 0059 |Yoshi's Island Village
+| 005a |Yoshi's Island Hut
+| 005b |Yoshi's Island Hut
+| 005c |Yoshi's Island Hut
+| 005d |Yoshi's Island Hut
+| 005e |Yoshi's Island
+| 005f |Yoshi's Island
+| 0060 |Yoshi's Island Hut
+| 0061 |Yoshi's Island
+| 0062 |Yoshi's Island
+| 0063 |Yoshi's Island
+| 0064 |Yoshi's Island
+| 0065 |Yoshi's Island
+| 0066 |Yoshi's Island
+| 0067 |Yoshi's Island
+| 0068 |Yoshi's Island
+| 0069 |Yoshi's Island
+| 006a |Yoshi's Island
+| 006b |Yoshi's Island
+| 006c |Yoshi's Island
+| 006d |Yoshi's Island
+| 006e |Yoshi's Island
+| 006f |Yoshi's Island Cliff Top
+| 0070 |Yoshi's Island Cliff Top
+| 0071 |Yoshi's Island Cliff Top
+| 00ca |Yoob's Belly (entering Yoob cutscene)
+| 00cb |Yoob's Belly
+| 00cc |Yoob's Belly
+| 00cd |Yoob's Belly
+| 00ce |Yoob's Belly
+| 00cf |Yoob's Belly
+| 00d0 |Yoob's Belly
+| 00d1 |Yoob's Belly
+| 00d2 |Yoob's Belly
+| 00d3 |Yoob's Belly
+| 00d4 |Yoob's Belly
+| 00d5 |Yoob's Belly
+| 00d6 |Yoob's Belly
+| 00d7 |Yoob's Belly
+| 00d8 |Yoob's Belly
+| 00d9 |Yoob's Belly
+| 00da |Yoob's Belly
+| 00db |Yoob's Belly
+| 00dc |Yoob's Belly (exiting Yoob cutscene)
+| 023e |Yoshi's Island (exiting Yoob cutsene & Kylie Koopa falling from Mother Ship cutscene)
+| 0100 |Gritzy Desert
+| 0101 |Gritzy Desert (outside the colosseum)
+| 0102 |Gritzy Desert
+| 0103 |Gritzy Desert
+| 0104 |Gritzy Desert
+| 0105 |Gritzy Desert
+| 0106 |Gritzy Desert
+| 0107 |Gritzy Desert
+| 0108 |Gritzy Desert
+| 0109 |Gritzy Desert
+| 010a |Koopaseum
+| 0111 |Koopaseum
+| 0112 |Koopaseum
+| 0237 |Koopaseum (looking through windows cutscene)
+| 0113 |Koopaseum
+| 0114 |Koopaseum
+| 0115 |Koopaseum
+| 0116 |Koopaseum
+| 0117 |Koopaseum
+| 0118 |Koopaseum
+| 0239 |Koopaseum (on the stage)
+| 011d |Gritzy Caves (crying cutscene)
+| 011c |Gritzy Caves
+| 011e |Gritzy Caves, Secret Monty Mart
+| 011f |Gritzy Caves
+| 0120 |Gritzy Caves
+| 0121 |Gritzy Caves
+| 0126 |Gritzy Caves
+| 0122 |Gritzy Caves
+| 0123 |Gritzy Caves
+| 0124 |Gritzy Caves
+| 0125 |Gritzy Caves
+| 0127 |Gritzy Caves
+| 0128 |Gritzy Caves
+| 0129 |Gritzy Caves
+| 012a |Gritzy Caves
+| 012b |Gritzy Caves
+| 012c |Gritzy Caves
+| 012d |Gritzy Caves
+| 012e |Gritzy Caves
+| 012f |Gritzy Caves
+| 0130 |Gritzy Caves
+| 0131 |Gritzy Caves
+| 0132 |Gritzy Caves
+| 0134 |Gritzy Caves (post Petey cutscene)
+| 0135 |Gritzy Caves
+| 0136 |Gritzy Caves
+| 0145 |Thwomp Volcano (also called Thwomp Volcano Trail)
+| 0147 |Thwomp Volcano
+| 0148 |Thwomp Volcano
+| 0149 |Thwomp Volcano
+| 014a |Thwomp Volcano
+| 014b |Thwomp Volcano
+| 014c |Thwomp Volcano
+| 014d |Thwomp Volcano
+| 014e |Thwomp Volcano
+| 014f |Thwomp Volcano
+| 0150 |Thwomp Volcano
+| 0151 |Thwomp Volcano
+| 0153 |Thwomp Volcano
+| 0152 |Thwomp Volcano
+| 0154 |Thwomp Volcano
+| 0155 |Thwomp Volcano
+| 0156 |Thwomp Volcano
+| 0157 |Thwomp Volcano
+| 0159 |Thwomp Volcano
+| 015a |Thwomp Volcano
+| 015b |Thwomp Volcano (in front of E. Gadd's Lab)
+| 0146 |Thwomp Volcano
+| 015d |E. Gadd's Lab
+| 023d |E. Gadd's Lab (thinking cutscene)
+| 015c |Thwomp Volcano (in front of E. Gadd's Lab)
+| 0248 |Thwomp Volcano (actually Peach's Garden, but it's the Hydrogush 4000 cutscene)
+| 0158 |Thwomp Volcano
+| 017d |Thwomp Caverns
+| 0196 |Thwomp Caverns (Bowser cutscene after volcano entry & before boss)
+| 017c |Thwomp Caverns
+| 017e |Thwomp Caverns
+| 017f |Thwomp Caverns
+| 0180 |Thwomp Caverns (Spin Minigame)
+| 0181 |Thwomp Caverns
+| 0182 |Thwomp Caverns
+| 0183 |Thwomp Caverns
+| 0184 |Thwomp Caverns
+| 0185 |Thwomp Caverns (falling elevator cutscene)
+| 0186 |Thwomp Caverns
+| 0189 |Thwomp Caverns
+| 0199 |Thwomp Caverns
+| 0187 |Thwomp Caverns
+| 0188 |Thwomp Caverns
+| 018a |Thwomp Caverns
+| 018b |Thwomp Caverns
+| 018c |Thwomp Caverns
+| 018d |Thwomp Caverns
+| 018e |Thwomp Caverns
+| 018f |Thwomp Caverns
+| 0190 |Thwomp Caverns
+| 0192 |Thwomp Caverns
+| 0191 |Thwomp Caverns (Twirl Minigame)
+| 0193 |Thwomp Caverns
+| 0194 |Thwomp Caverns
+| 0195 |Thwomp Caverns
+| 0233 |Air? (Bowsers flying out of volcano cutscene)
+| 0179 |Air? (Baby Bowser landing on Mothership cutscene)
+| 0198 |Thwomp Caverns (rescuing "Peach" cutscene)
+| 016d |Shroob Mother Ship
+| 016e |Shroob Mother Ship
+| 016f |Shroob Mother Ship
+| 0170 |Shroob Mother Ship
+| 0171 |Shroob Mother Ship
+| 0172 |Shroob Mother Ship ("Peach" reveal)
+| 0173 |Shroob Mother Ship (elevator)
+| 0175 |Shroob Mother Ship
+| 0176 |Shroob Mother Ship
+| 0177 |Shroob Mother Ship (Kylie Koopa hanging on cutscene)
+| 01a2 |Toad Town
+| 01ac |Gramma's Place in Toad Town
+| 01a3 |Toad Town
+| 01a4 |Toad Town
+| 01a5 |Toad Town
+| 01a7 |Toad Town
+| 01a8 |Toad Town
+| 01a9 |Toad Town
+| 01a6 |Toad Town
+| 01aa |Toad Town
+| 01ab |Toad Town
+| 0165 |Star Hill
+| 0166 |Star Hill
+| 0167 |Star Hill
+| 0168 |Star Hill
+| 0169 |Star Hill
+| 016a |Star Hill
+| 01b7 |Star Shrine
+| 01b8 |Star Shrine
+| 01b9 |Star Shrine
+| 01bb |Star Shrine
+| 01ba |Star Shrine
+| 01bc |Star Shrine
+| 01bd |Star Shrine
+| 01be |Star Shrine
+| 01bf |Star Shrine
+| 01c0 |Star Shrine, the second
+| 01c1 |Star Shrine, the second
+| 01c2 |Star Shrine, the second
+| 01c3 |Star Shrine, the second
+| 01c4 |Star Shrine, the second
+| 01c5 |Star Shrine, the second
+| 01c6 |Star Shrine, the second
+| 01c7 |Star Shrine, the third
+| 01c8 |Star Shrine, the third
+| 01c9 |Star Shrine, the third
+| 01ca |Star Shrine, the third
+| 01cb |Star Shrine, the third
+| 01cc |Star Shrine, the third
+| 022e |Star Shrine, the third (Toadbert's sketch)
+| 01ce |Star Shrine, the third
+| 01d9 |Shroob Castle, entrance floor
+| 01da |Shroob Castle, entrance floor
+| 01dd |Shroob Castle, entrance floor
+| 01db |Shroob Castle, entrance floor
+| 01dc |Shroob Castle, entrance floor
+| 01e1 |Shroob Castle, 1st floor
+| 01e2 |Shroob Castle, 1st floor
+| 01e4 |Shroob Castle, 1st floor
+| 01e7 |Shroob Castle, 1st floor
+| 01eb |Shroob Castle, 1st floor
+| 01ea |Shroob Castle, Garden
+| 01e9 |Shroob Castle, Garden
+| 01ec |Shroob Castle, 1st floor
+| 01ed |Shroob Castle, 1st floor
+| 01ee |Shroob Castle, 1st floor
+| 01e8 |Shroob Castle, 1st floor
+| 01e5 |Shroob Castle, 1st floor
+| 01e3 |Shroob Castle, 1st floor
+| 01e6 |Shroob Castle, 1st floor
+| 01e0 |Shroob Castle, 1st floor
+| 01ef |Shroob Castle, 1st floor
+| 01fa |Shroob Castle, 2nd floor
+| 01f2 |Shroob Castle, 2nd floor
+| 01f3 |Shroob Castle, Library
+| 01f5 |Shroob Castle, 2nd floor
+| 01f8 |Shroob Castle, long staircase
+| 01f9 |Shroob Castle, Viewing Platform
+| 01fc |Shroob Castle, Mother Ship
+| 01f6 |Shroob Castle, 2nd floor
+| 01fd |Shroob Castle, 3rd floor
+| 01fe |Shroob Castle, 3rd floor
+| 0200 |Shroob Castle, 3rd floor
+| 0201 |Shroob Castle, 3rd floor
+| 0243 |Shroob Castle, 3rd floor (pipe cutscene)
+| 020d |Shroob Castle Cellar
+| 020e |Shroob Castle Cellar
+| 020f |Shroob Castle Cellar
+| 0210 |Shroob Castle Cellar
+| 0211 |Shroob Castle Cellar
+| 0212 |Shroob Castle Cellar
+| 0213 |Shroob Castle Cellar
+| 0214 |Shroob Castle Cellar
+| 0215 |Shroob Castle Cellar
+| 0216 |Shroob Castle Cellar
+| 0217 |Shroob Castle Cellar
+| 0218 |Shroob Castle Cellar
+| 0219 |Shroob Castle Cellar
+| 021b |Shroob Castle Cellar
+| 01f0 |Shroob Castle, 1st floor
+| 01fb |Shroob Castle, 2nd floor
+| 01f4 |Shroob Castle, 2nd floor
+| 01f7 |Shroob Castle, 2nd floor
+| 01ff |Shroob Castle, 3rd floor
+| 025a |Shroob Castle, 3rd floor
+| 0202 |Shroob Castle, 3rd floor
+| 0221 |Shroob Castle Statue
+| 0222 |Shroob Castle Statue
+| 0223 |Shroob Castle Statue
+| 0224 |Shroob Castle Statue
+| 0227 |Shroob Castle Statue
+| 0228 |Shroob Castle Statue, Statue... Ship?
+| 0225 |Shroob Castle Statue
+| 0226 |Shroob Castle Statue
+| 0247 |Shroob Castle Statue
+| 0249 |Shroob Castle Statue (Hydrogush 4000 cutscene)
+| 024e |Shroob Castle Statue (Hydrogush 4000 cutscene)
+| 024f |Shroob Castle Statue (Hydrogush 4000 cutscene)
+| 0250 |Shroob Castle Statue (Hydrogush 4000 cutscene)
+| 0256 |Shroob Castle Statue (Hydrogush 4000 cutscene)
+| 00a0 |Peach's Castle (post-shroob)
+| 0257 |Peach's Castle (post-shroob)
+| 0095 |Peach's Castle (post-shroob)
+| 0252 |Peach's Castle (post-shroob) (waving goodbye cutscene & credits)
++------+------ - -  -  -   -    -

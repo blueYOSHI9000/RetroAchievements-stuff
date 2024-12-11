@@ -1,0 +1,653 @@
+//Note: These were mainly made for RetroAchievements so they might not fit other purposes.
+//See Partners in Time: https://gist.github.com/blueYOSHI9000/e7ee87d52368bc7b779e468b259a0cf2
+
+Battle IDs use 0x0564e0 [16-Bit] in the EU version
+Stage IDs  use 0x0564e2 [16-Bit] in the EU version
++------+------+------ - -  -  -   -    -
+|Battle| Stage|      (found at 0x33c576 in EU version)
+|  ID  |  ID  | Name
++------+------+------ - -  -  -   -    -
+| 1000 | 0218 | Bowser tutorial fight
+| 100a | 0277 | Midbus tutorial fight
+| 1016 | 001b | Broque Monsieur Vacuum tutorial
+| 1018 | 028b | Sea Pipe Statue
+| 1021 | 001a | Scutlet
+| 1017 | 0035 | Broggy tutorial fight
+| 102b | 0x33 | Wiggler
+| 1030 | 0x32 | Durmite
+| 106a | 0x2d | Midbus
+| 1040 | 0xd1 | Keratin
+| 1050 | 0100 | Bowser
+| 1060 | 00b7 | Wisdurm
+| 106b | 0089 | Bowser Memory ML
+| 1073 | 01a7 | Trasher
+| 107b | 020e | Blizzard Midbus
+| 1089 | 01d9 | Dark Star
+| 1080 | 0241 | Dark Fawful
+| 1079 | 022c | Dark Bowser
++------+------+------ - -  -  -   -    -
+| 3001 | 024a | Bowser Castle
+| 3002 | 0232 | Tower of Yikk
+| 3003 | 029c | Fawful Express
+| 3004 | 025c | Peachs Castle of Fury
++------+------+------ - -  -  -   -    -
+| 300b |      | Durmite X
+| 300c |      | Keratin X
+| 300d |      | Wisdurm X
+| 300e |      | Bowser Memory MLX
+| 300f |      | Junker X
+| 3010 |      | Dark Star X
+| 3011 |      | Bowser X
++------+------+------ - -  -  -   -    -
+|      | FFFF | Challenge Node
+|      | 1019 | Chakron
+|      | 102f | 4 Sockops (the final battle when Luigi travelled alone)
+|      | 1069 | Shroobs
+|      | 1069 | Shroobs
++------+------+------ - -  -  -   -    -
+| 108e |      | Practise
++------+------+------ - -  -  -   -    -
+
+Stage ID Note:
+0xe081 = Used when softresetting the game with L+R+Start+Select
+       - Seems to be the only way to properly detect a softreset because the Screen ID is only updated after 3 frames, during those 3 frames the game seems to fill some addresses with unrelated data. Usually not an issue but levels and gauntlet wins are changed during those 3 frames which causes those to be triggered. This 0x3081 value seems to be the most reliable way to detect a softreset because that value is always used during those 3 frames before changing back to 0x0000 immediately after.
+
+
+
+
+
+Top Screen Area (used for Bowser and Mario & Luigi outside Bowser) uses 0x33abe4 [16-Bit] in the EU version
+Bottom Screen Area (used for Mario & Luigi inside Bowser)          uses 0x3395d4 [16-Bit] in the EU version
+
+Don't ask me why some of the names have "in" in front of them, I don't remember, lmao.
+
++------+------+------ - -  -  -   -    -
+| Area | Top/ |
+|  ID  |Bottom| Name
+| 0283 | Top  | Map
+| 006b | Top  | the Mushroom Kingdom (Banzai Bill/Giant Castle cutscene & Bob-Ombs exploding before Underground Tunnel cutscene)
++------+------+------ - -  -  -   -    -
+| 00f2 | Top  | Toadley Clinic
+| 00f3 | Top  | Toadley Clinic
+| 00f4 | Top  | Toadley Clinic
+| 012a | Top  | Toadley Clinic
+| 013b | Top  | Toadley Clinic
+| 0100 | Top  | Toadley Clinic
+| 012b | Top  | Toad Town Shop
+| 012c | Top  | Toad Town Shop
+| 012d | Top  | Toad Town Shop
+| 00a3 | Top  | Toad Town Shop
+| 00f1 | Top  | Toad Town Shop
+| 009d | Top  | Toad Town House
+| 009e | Top  | Toad Town House
+| 009f | Top  | Toad Town House
+| 00a1 | Top  | Toad Town House
+| 00a0 | Top  | Toad Town House
+| 00a2 | Top  | Toad Town House
+| 009b | Top  | Toad Town House
+| 0128 | Top  | Toad Town
+| 0129 | Top  | Toad Town
+| 00cc | Top  | Toad Town
+| 00d0 | Top  | Toad Town
+| 00cb | Top  | Toad Town
+| 00cd | Top  | Toad Town
+| 00ce | Top  | Toad Town
+| 00cf | Top  | Toad Town
+| 00ec | Top  | Toad Town
+| 00ed | Top  | Toad Town
+| 00ee | Top  | Toad Town
+| 00ef | Top  | Toad Town
+| 00f0 | Top  | Toad Town
+| 00e8 | Top  | in Toad Town
+| 027e | Top  | in Toad Town
++------+------+------ - -  -  -   -    -
+| 0289 | Top  | Broque Madame
+| 0288 | Top  | Blubble Lake
+| 0105 | Top  | Blubble Lake
+| 0106 | Top  | Blubble Lake
+| 0107 | Top  | Blubble Lake
+| 00f9 | Top  | Blubble Lake
+| 0111 | Top  | Blubble Lake
+| 0112 | Top  | Blubble Lake
+| 0113 | Top  | Blubble Lake
+| 0114 | Top  | Blubble Lake
+| 0117 | Top  | Blubble Lake
+| 0116 | Top  | Blubble Lake
+| 0119 | Top  | Blubble Lake
+| 0108 | Top  | Blubble Lake
+| 0118 | Top  | Blubble Lake
+| 011b | Top  | Blubble Lake
+| 011a | Top  | Blubble Lake
+| 0132 | Top  | Blubble Lake
+| 0131 | Top  | Blubble Lake
+| 0104 | Top  | Blubble Lake
+| 0115 | Top  | Blubble Lake
+| 0148 | Top  | Blubble Lake
+| 00fa | Top  | Blubble Lake
+| 0130 | Top  | Blubble Lake
+| 00fd | Top  | Blubble Lake
+| 00fb | Top  | Blubble Lake
+| 00ca | Top  | Blubble Lake
+| 00c6 | Top  | Blubble Lake
+| 00c8 | Top  | Blubble Lake
+| 0231 | Top  | Blubble Lake
+| 027f | Top  | Blubble Lake
+| 0232 | Top  | Blubble Lake
+| 00c9 | Top  | Blubble Lake
+| 00f8 | Top  | Blubble Lake
+| 00fc | Top  | Blubble Lake
+| 013d | Top  | Blubble Lake
+| 025d | Top  | Blubble Lake
+| 0134 | Top  | Tower of Yikk
+| 0135 | Top  | Tower of Yikk
+| 00b7 | Top  | Tower of Yikk
+| 0144 | Top  | Tower of Yikk
+| 011d | Top  | Blubble Lake Underwater
+| 010a | Top  | Blubble Lake Underwater
+| 011c | Top  | Blubble Lake Underwater
+| 0109 | Top  | Blubble Lake Underwater
++------+------+------ - -  -  -   -    -
+| 029b | Top  | Bumpsy Plains
+| 005a | Top  | Bumpsy Plains
+| 0088 | Top  | Bumpsy Plains
+| 0087 | Top  | Bumpsy Plains
+| 0054 | Top  | Bumpsy Plains
+| 0055 | Top  | Bumpsy Plains
+| 029a | Top  | Bumpsy Plains
+| 005c | Top  | Bumpsy Plains
++------+------+------ - -  -  -   -    -
+| 0145 | Top  | Bowser Path
+| 0078 | Top  | Bowser Path
+| 0079 | Top  | Bowser Path
+| 007a | Top  | Bowser Path
+| 007b | Top  | Bowser Path
+| 006d | Top  | Bowser Path
+| 0071 | Top  | Bowser Path
+| 006e | Top  | Bowser Path
+| 0072 | Top  | Bowser Path
+| 007d | Top  | Bowser Path
+| 0073 | Top  | Bowser Path
+| 0074 | Top  | Bowser Path
+| 007e | Top  | Bowser Path
+| 007c | Top  | Bowser Path
++------+------+------ - -  -  -   -    -
+| 015c | Top  | Bowser Castle
+| 0025 | Top  | Bowser Castle
+| 0026 | Top  | Bowser Castle
+| 0027 | Top  | Bowser Castle
+| 0290 | Top  | Bowser Castle
+| 028e | Top  | Bowser Castle
+| 028f | Top  | Bowser Castle
+| 0028 | Top  | Bowser Castle
+| 002a | Top  | Bowser Castle
+| 0185 | Top  | Bowser Castle
+| 0029 | Top  | Bowser Castle
+| 002c | Top  | Bowser Castle
+| 018d | Top  | Bowser Castle
+| 0093 | Top  | Bowser Castle
+| 0092 | Top  | Bowser Castle
+| 0091 | Top  | Bowser Castle
+| 008a | Top  | Bowser Castle
+| 008e | Top  | Bowser Castle
+| 008f | Top  | Bowser Castle
+| 0090 | Top  | Bowser Castle
+| 0070 | Top  | Bowser Castle
+| 008b | Top  | Bowser Castle
+| 0186 | Top  | Bowser Castle
+| 008d | Top  | Bowser Castle
+| 008c | Top  | Bowser Castle
+| 0096 | Top  | Bowser Castle
+| 0099 | Top  | Bowser Castle
+| 0094 | Top  | Bowser Castle
+| 019a | Top  | Bowser Castle
+| 0173 | Top  | Bowser Castle
+| 0174 | Top  | Bowser Castle
+| 023c | Top  | Bowser Castle
+| 019b | Top  | Bowser Castle
+| 018c | Top  | Bowser Castle
+| 0175 | Top  | Bowser Castle
+| 0171 | Top  | Bowser Castle
+| 0097 | Top  | Bowser Castle
+| 0172 | Top  | Bowser Castle
+| 0098 | Top  | Bowser Castle
+| 0089 | Top  | Bowser Castle
+| 002b | Top  | Bowser Castle
+| 002d | Top  | Bowser Castle
+| 016b | Top  | Bowser Castle
+| 0200 | Top  | Bowser Castle
+| 0158 | Top  | Bowser Castle
+| 0157 | Top  | Bowser Castle
+| 016c | Top  | Bowser Castle
+| 022e | Top  | Bowser Castle
+| 0230 | Top  | Bowser Castle
+| 0247 | Top  | Bowser Castle
+| 029c | Top  | Bowser Castle
+| 0056 | Top  | in Bowser Castle
+| 0057 | Top  | in Bowser Castle
+| 0058 | Top  | in Bowser Castle
+| 0059 | Top  | in Bowser Castle
+| 005d | Top  | in Bowser Castle
+| 005e | Top  | in Bowser Castle
+| 00d1 | Top  | in Bowser Castle
+| 009a | Top  | in Bowser Castle
+| 0041 | Top  | in Bowser Castle
+| 0187 | Top  | in Bowser Castle
++------+------+------ - -  -  -   -    -
+| 0167 | Top  | Railroad between Bowsers Castle and Toad Town
+| 0168 | Top  | Railroad between Bowsers Castle and Toad Town
+| 0169 | Top  | Railroad between Bowsers Castle and Toad Town
+| 015b | Top  | Railroad between Bowsers Castle and Toad Town
+| 00dd | Top  | Railroad between Toad Town and Cavi Cape
+| 00dc | Top  | Railroad between Toad Town and Cavi Cape
+| 00de | Top  | Railroad between Cavi Cape and Bowsers Castle
+| 0159 | Top  | Railroad between Cavi Cape and Bowsers Castle
+| 015a | Top  | Railroad between Cavi Cape and Bowsers Castle
++------+------+------ - -  -  -   -    -
+| 00d2 | Top  | Underground Tunnel
+| 00d3 | Top  | Underground Tunnel
+| 00d5 | Top  | Underground Tunnel
+| 00d4 | Top  | Underground Tunnel
+| 00d6 | Top  | Underground Tunnel
+| 00d7 | Top  | Underground Tunnel
+| 00d8 | Top  | Underground Tunnel
+| 00d9 | Top  | Underground Tunnel
+| 00db | Top  | Underground Tunnel
+| 00da | Top  | Underground Tunnel
+| 0137 | Top  | Underground Tunnel (minigame)
++------+------+------ - -  -  -   -    -
+| 027b | Top  | Cavi Cape
+| 0209 | Top  | Cavi Cape
+| 020a | Top  | Cavi Cape
+| 0162 | Top  | Cavi Cape
+| 020b | Top  | Cavi Cape
+| 015e | Top  | Cavi Cape
+| 015f | Top  | Cavi Cape
+| 0161 | Top  | Cavi Cape
+| 0163 | Top  | Cavi Cape
+| 0160 | Top  | Cavi Cape
+| 020c | Top  | Cavi Cape
+| 020d | Top  | Cavi Cape
+| 01fb | Top  | Cavi Cape
+| 015d | Top  | Cavi Cape
+| 0277 | Top  | Cavi Cape
++------+------+------ - -  -  -   -    -
+| 0287 | Top  | Plack Beach Puzzle House
+| 0010 | Top  | Plack Beach
+| 0011 | Top  | Plack Beach
+| 0012 | Top  | Plack Beach
+| 0013 | Top  | Plack Beach
+| 003d | Top  | Plack Beach
+| 0023 | Top  | Plack Beach
+| 0024 | Top  | Plack Beach
+| 001e | Top  | Plack Beach
+| 0153 | Top  | Plack Beach
+| 0154 | Top  | Plack Beach
+| 001a | Top  | Plack Beach
+| 0035 | Top  | Plack Beach
+| 0037 | Top  | Plack Beach
+| 0036 | Top  | Plack Beach
+| 001f | Top  | Plack Beach
+| 0020 | Top  | Plack Beach
+| 003e | Top  | Plack Beach
+| 028b | Top  | Plack Beach
++------+------+------ - -  -  -   -    -
+| 0156 | Top  | Plack Beach Chakron Area
+| 0176 | Top  | Plack Beach Chakron Area
+| 0177 | Top  | Plack Beach Chakron Area
+| 0164 | Top  | Plack Beach Chakron Area
+| 0166 | Top  | Plack Beach Chakron Area
+| 0165 | Top  | Plack Beach Chakron Area
+| 016f | Top  | Plack Beach Chakron Area
+| 0170 | Top  | Plack Beach Chakron Area
++------+------+------ - -  -  -   -    -
+| 00ad | Top  | Dimble Wood
+| 00ac | Top  | Dimble Wood
+| 00aa | Top  | Dimble Wood
+| 0080 | Top  | Dimble Wood
+| 007f | Top  | Dimble Wood
+| 0081 | Top  | Dimble Wood
+| 00a8 | Top  | Dimble Wood
+| 00a9 | Top  | Dimble Wood
+| 004a | Top  | Dimble Wood
+| 00ab | Top  | Dimble Wood
+| 005b | Top  | Dimble Wood
+| 00b3 | Top  | Dimble Wood
+| 00b4 | Top  | Dimble Wood
+| 0050 | Top  | Dimble Wood
+| 0066 | Top  | Dimble Wood
+| 00b0 | Top  | Dimble Wood
+| 00b5 | Top  | Dimble Wood
+| 0032 | Top  | Dimble Wood
+| 00b6 | Top  | Dimble Wood
+| 0033 | Top  | Dimble Wood
+| 0030 | Top  | Dimble Wood
+| 0031 | Top  | Dimble Wood
+| 004c | Top  | Dimble Wood
+| 0049 | Top  | Dimble Wood
+| 0048 | Top  | Dimble Wood
+| 00b2 | Top  | Dimble Wood
+| 0047 | Top  | Dimble Wood
+| 0178 | Top  | Dimble Wood
+| 0060 | Top  | Dimble Wood
+| 00b1 | Top  | Dimble Wood
+| 0053 | Top  | Dimble Wood
+| 00ae | Top  | Dimble Wood
+| 028d | Top  | Dimble Wood
+| 0188 | Top  | Dimble Wood
+| 0199 | Top  | Dimble Wood
+| 018f | Top  | Dimble Wood
+| 019c | Top  | Dimble Wood
+| 0189 | Top  | Dimble Wood
+| 018b | Top  | Dimble Wood
+| 002e | Top  | Dimble Wood
+| 0052 | Top  | Dimble Wood
+| 00af | Top  | Dimble Wood
+| 002f | Top  | Dimble Wood
+| 006f | Top  | Dimble Wood
+| 006a | Top  | Dimble Wood
+| 0067 | Top  | Dimble Wood
+| 0249 | Top  | Dimble Wood
+| 0248 | Top  | Dimble Wood
+| 024a | Top  | Dimble Wood
+| 0046 | Top  | in Dimble Wood
+| 016d | Top  | in Dimble Wood (carrot eating)
+| 018e | Top  | in Dimble Wood
+| 0190 | Top  | in Dimble Wood
++------+------+------ - -  -  -   -    -
+| 0120 | Top  | Toad Town Caves
+| 011f | Top  | Toad Town Caves
+| 00f6 | Top  | Toad Town Caves
+| 00ea | Top  | Toad Town Caves
+| 012f | Top  | Toad Town Caves
+| 0121 | Top  | Toad Town Caves
+| 0122 | Top  | Toad Town Caves
+| 0123 | Top  | Toad Town Caves
+| 00eb | Top  | Toad Town Caves
+| 0124 | Top  | Toad Town Caves
+| 0125 | Top  | Toad Town Caves
+| 0126 | Top  | Toad Town Caves
+| 0127 | Top  | Toad Town Caves
+| 00f5 | Top  | Toad Town Caves
+| 0139 | Top  | Toad Town Caves
++------+------+------ - -  -  -   -    -
+| 021d | Top  | Peachs Castle
+| 009c | Top  | Peachs Castle
+| 024d | Top  | Peachs Castle
+| 024e | Top  | Peachs Castle
+| 024f | Top  | Peachs Castle
+| 0218 | Top  | Peachs Castle
+| 021a | Top  | Peachs Castle
+| 0216 | Top  | Peachs Castle
+| 0217 | Top  | Peachs Castle
+| 0250 | Top  | Peachs Castle
++------+------+------ - -  -  -   -    -
+| 01a8 | Top  | Peachs Castle Garden
+| 01a9 | Top  | Peachs Castle Garden
+| 01aa | Top  | Peachs Castle Garden
+| 01e9 | Top  | Peachs Castle Garden
+| 01af | Top  | Peachs Castle Garden
+| 0195 | Top  | Peachs Castle Garden
+| 01e2 | Top  | Peachs Castle Garden
+| 01e7 | Top  | Peachs Castle Garden
+| 01e6 | Top  | Peachs Castle Garden
+| 01e3 | Top  | Peachs Castle Garden
+| 01e8 | Top  | Peachs Castle Garden
+| 01e4 | Top  | Peachs Castle Garden
+| 01e5 | Top  | Peachs Castle Garden
+| 019d | Top  | Peachs Castle Garden
+| 019e | Top  | Peachs Castle Garden
+| 0196 | Top  | Peachs Castle Garden
+| 01ec | Top  | Peachs Castle Garden
+| 01eb | Top  | Peachs Castle Garden
+| 01ea | Top  | Peachs Castle Garden
+| 0252 | Top  | Peachs Castle Garden
++------+------+------ - -  -  -   -    -
+| 01bf | Top  | Peachs Castle
+| 01c0 | Top  | Peachs Castle
+| 01c1 | Top  | Peachs Castle
+| 01a3 | Top  | Peachs Castle
+| 01c3 | Top  | Peachs Castle
+| 01c4 | Top  | Peachs Castle
+| 01c5 | Top  | Peachs Castle
+| 01ca | Top  | Peachs Castle
+| 01c7 | Top  | Peachs Castle
+| 01c6 | Top  | Peachs Castle
+| 01c9 | Top  | Peachs Castle
+| 01c8 | Top  | Peachs Castle
+| 01cf | Top  | Peachs Castle
+| 01d0 | Top  | Peachs Castle
+| 01d5 | Top  | Peachs Castle
+| 01d1 | Top  | Peachs Castle
+| 01d4 | Top  | Peachs Castle
+| 01d2 | Top  | Peachs Castle
+| 01cb | Top  | Peachs Castle
+| 01cd | Top  | Peachs Castle
+| 01cc | Top  | Peachs Castle
+| 01ce | Top  | Peachs Castle
+| 01a4 | Top  | Peachs Castle
+| 01c2 | Top  | Peachs Castle
+| 01b0 | Top  | Peachs Castle
+| 01b1 | Top  | Peachs Castle
+| 01b2 | Top  | Peachs Castle
+| 01b3 | Top  | Peachs Castle
+| 01b5 | Top  | Peachs Castle
+| 01b4 | Top  | Peachs Castle
+| 01b6 | Top  | Peachs Castle
+| 01b7 | Top  | Peachs Castle
+| 01b9 | Top  | Peachs Castle
+| 01b8 | Top  | Peachs Castle
+| 01ba | Top  | Peachs Castle
+| 01bb | Top  | Peachs Castle
+| 01e1 | Top  | Peachs Castle
+| 01bc | Top  | Peachs Castle
+| 01a5 | Top  | Peachs Castle
+| 01a6 | Top  | Peachs Castle
+| 01bd | Top  | Peachs Castle
+| 01ae | Top  | Peachs Castle
+| 01be | Top  | Peachs Castle
+| 01d3 | Top  | Peachs Castle
+| 01db | Top  | Peachs Castle
+| 01da | Top  | Peachs Castle
+| 01d8 | Top  | Peachs Castle
+| 01d9 | Top  | Peachs Castle
+| 01d7 | Top  | Peachs Castle
+| 023f | Top  | Peachs Castle
+| 0240 | Top  | Peachs Castle
+| 01dc | Top  | Peachs Castle
+| 0241 | Top  | Peachs Castle
+| 020e | Top  | Peachs Castle
+| 020f | Top  | Peachs Castle
+| 0257 | Top  | Peachs Castle
+| 0259 | Top  | Peachs Castle
+| 0274 | Top  | Peachs Castle
+| 0258 | Top  | Peachs Castle
+| 025c | Top  | Peachs Castle
+| 0298 | Top  | Peachs Castle
+| 01a2 | Top  | Peachs Castle
+| 01a7 | Top  | Peachs Castle
++------+------+------ - -  -  -   -    -
+| 0236 | Top  | Top of Peachs Castle
+| 0237 | Top  | Top of Peachs Castle
+| 0238 | Top  | Top of Peachs Castle
+| 023b | Top  | Top of Peachs Castle
+| 0239 | Top  | Top of Peachs Castle
+| 023a | Top  | Top of Peachs Castle
+| 022c | Top  | Top of Peachs Castle
+| 025f | Top  | Top of Peachs Castle
+| 0235 | Top  | Top of Peachs Castle
+| 0226 | Top  | Top of Peachs Castle
+| 0221 | Top  | Top of Peachs Castle
+| 0222 | Top  | Top of Peachs Castle
+| 0299 | Top  | Top of Peachs Castle
+| 0223 | Top  | Top of Peachs Castle
+| 0281 | Top  | Top of Peachs Castle
++------+------+------ - -  -  -   -    -
+| 0296 | Top  | Trash Pit (used in a cutscene, is supposed to count as "Top Screen")
++------+------+------ - -  -  -   -    -
+| 001b |Bottom| Map
++------+------+------ - -  -  -   -    -
+| 012e |Bottom| Pipe Yard
+| 01fc |Bottom| Funny Bone
+| 013a |Bottom| Joint Tower
+| 0152 |Bottom| Lumbar Nook
+| 016a |Bottom| Toad Square
+| 028a |Bottom| Challenge Node
++------+------+------ - -  -  -   -    -
+| 011e |Bottom| Nose Deck
+| 0155 |Bottom| Nose Deck
++------+------+------ - -  -  -   -    -
+| 01ac |Bottom| Chest Station
+| 01ad |Bottom| Chest Station
+| 01ab |Bottom| Chest Station
++------+------+------ - -  -  -   -    -
+| 001c |Bottom| Arm Center
+| 0284 |Bottom| Arm Center
++------+------+------ - -  -  -   -    -
+| 016e |Bottom| Gut Check
+| 0034 |Bottom| Gut Check
++------+------+------ - -  -  -   -    -
+| 0077 |Bottom| Rump Command
+| 00ff |Bottom| Rump Command
+| 024b |Bottom| Rump Command (Giga Bowser cutscene)
+| 024c |Bottom| Rump Command (Giga Bowser cutscene)
+| 0202 |Bottom| Rump Command (Giga Bowser cutscene)
+| 0233 |Bottom| Rump Command (Giga Bowser cutscene)
+| 022f |Bottom| Rump Command (Giga Bowser cutscene)
+| 029d |Bottom| Rump Command (Giga Bowser cutscene)
+| 0294 |Bottom| Rump Command (Giga Bowser cutscene)
+| 025a |Bottom| Rump Command (Giga Bowser cutscene)
+| 025b |Bottom| Rump Command (Giga Bowser cutscene)
++------+------+------ - -  -  -   -    -
+| 014d |Bottom| Leg Outpost
+| 0136 |Bottom| Leg Outpost
++------+------+------ - -  -  -   -    -
+| 003a |Bottom| Nerve Cluster
+| 003b |Bottom| Nerve Cluster
+| 003c |Bottom| Nerve Cluster
+| 006c |Bottom| Nerve Cluster
++------+------+------ - -  -  -   -    -
+| 0038 |Bottom| Flame Pipe
+| 0039 |Bottom| Flame Pipe
++------+------+------ - -  -  -   -    -
+| 0149 |Bottom| Memory Banks
+| 014a |Bottom| Memory Banks
+| 014b |Bottom| Memory Banks
++------+------+------ - -  -  -   -    -
+| 0215 |Bottom| Trash Pit
+| 021c |Bottom| Trash Pit
+| 021b |Bottom| Trash Pit
+| 0212 |Bottom| Trash Pit
+| 0213 |Bottom| Trash Pit
+| 0214 |Bottom| Trash Pit
+| 0206 |Bottom| Trash Pit
+| 0211 |Bottom| Trash Pit
+| 0205 |Bottom| Trash Pit
+| 0207 |Bottom| Trash Pit
+| 0204 |Bottom| Trash Pit
+| 0203 |Bottom| Trash Pit
+| 0210 |Bottom| Trash Pit
+| 01fe |Bottom| Trash Pit
+| 01fd |Bottom| Trash Pit
+| 0295 |Bottom| Trash Pit
+| 0297 |Bottom| Trash Pit
++------+------+------ - -  -  -   -    -
+| 0005 |Bottom| Pump Works
+| 001d |Bottom| Pump Works
+| 0008 |Bottom| Pump Works
+| 0017 |Bottom| Pump Works
+| 0018 |Bottom| Pump Works
+| 0019 |Bottom| Pump Works
+| 0006 |Bottom| Pump Works
+| 000a |Bottom| Pump Works
+| 000f |Bottom| Pump Works
+| 0009 |Bottom| Pump Works
+| 0021 |Bottom| Pump Works
+| 0015 |Bottom| Pump Works
+| 000c |Bottom| Pump Works
+| 0016 |Bottom| Pump Works
+| 0014 |Bottom| Pump Works
+| 000d |Bottom| Pump Works
+| 0022 |Bottom| Pump Works
+| 000e |Bottom| Pump Works
++------+------+------ - -  -  -   -    -
+| 00a4 |Bottom| Energy Hold
+| 00a5 |Bottom| Energy Hold
+| 00a6 |Bottom| Energy Hold
+| 00a7 |Bottom| Energy Hold
+| 00b9 |Bottom| Energy Hold
+| 00bd |Bottom| Energy Hold
+| 00be |Bottom| Energy Hold
+| 00bf |Bottom| Energy Hold
+| 00c4 |Bottom| Energy Hold
+| 00e6 |Bottom| Energy Hold
+| 00e7 |Bottom| Energy Hold
+| 00c5 |Bottom| Energy Hold
+| 00c2 |Bottom| Energy Hold
+| 00e3 |Bottom| Energy Hold
+| 00e5 |Bottom| Energy Hold
+| 00e4 |Bottom| Energy Hold
+| 00ce |Bottom| Energy Hold
+| 00c0 |Bottom| Energy Hold
+| 00e1 |Bottom| Energy Hold
+| 00e2 |Bottom| Energy Hold
+| 00c1 |Bottom| Energy Hold
+| 00ba |Bottom| Energy Hold
+| 00bb |Bottom| Energy Hold
+| 00df |Bottom| Energy Hold
+| 00e0 |Bottom| Energy Hold
+| 00bc |Bottom| Energy Hold
+| 010b |Bottom| Energy Hold
+| 010c |Bottom| Energy Hold
+| 010d |Bottom| Energy Hold
+| 010e |Bottom| Energy Hold
+| 014c |Bottom| Energy Hold
+| 010f |Bottom| Energy Hold
+| 0110 |Bottom| Energy Hold
+| 0000 |Bottom| Energy Hold
++------+------+------ - -  -  -   -    -
+| 0076 |Bottom| Flab Zone
+| 004d |Bottom| Flab Zone
+| 004e |Bottom| Flab Zone
+| 00b8 |Bottom| Flab Zone
+| 0061 |Bottom| Flab Zone
+| 0062 |Bottom| Flab Zone
+| 0069 |Bottom| Flab Zone
+| 0084 |Bottom| Flab Zone
+| 0063 |Bottom| Flab Zone
+| 0082 |Bottom| Flab Zone
+| 0064 |Bottom| Flab Zone
+| 0065 |Bottom| Flab Zone
+| 0068 |Bottom| Flab Zone
+| 0086 |Bottom| Flab Zone
+| 0083 |Bottom| Flab Zone
+| 0085 |Bottom| Flab Zone
+| 004f |Bottom| Flab Zone
+| 0042 |Bottom| Flab Zone
+| 0043 |Bottom| Flab Zone
+| 0095 |Bottom| Flab Zone
+| 0051 |Bottom| in Flab Zone
+| 005d |Bottom| in Flab Zone
++------+------+------ - -  -  -   -    -
+| 0181 |Bottom| Airway
+| 0182 |Bottom| Airway
+| 0179 |Bottom| Airway
+| 017a |Bottom| Airway
+| 01fa |Bottom| Airway
+| 017b |Bottom| Airway
+| 0184 |Bottom| Airway
+| 017f |Bottom| Airway
+| 017c |Bottom| Airway
+| 017d |Bottom| Airway
+| 017e |Bottom| Airway
+| 0183 |Bottom| Airway
+| 0180 |Bottom| Airway
+| 01f1 |Bottom| Airway
+| 01f2 |Bottom| Airway
+| 01f3 |Bottom| Airway
+| 01f7 |Bottom| Airway
+| 01f4 |Bottom| Airway
+| 01f5 |Bottom| Airway
+| 01f6 |Bottom| Airway
+| 01f8 |Bottom| Airway
+| 01f9 |Bottom| Airway
++------+------+------ - -  -  -   -    -

@@ -1,0 +1,685 @@
+Format:Digit
+FormatType=VALUE
+
+Format:Playtime
+FormatType=FRAMES
+
+Lookup:Character
+0x03=Bowser
+0x01=Mario & Luigi
+0x80=Mario & Luigi
+0x00=Mario & Luigi
+
+Lookup:Area
+0x03=in the Mushroom Kingdom
+0x80=in the Mushroom Kingdom
+0x00=in the Mushroom Kingdom
+0x01=inside Bowser
+
+Lookup:Area
+0x03=in the Mushroom Kingdom
+0x80=in the Mushroom Kingdom
+0x00=in the Mushroom Kingdom
+0x01=inside Bowser
+
+Lookup:TopArea
+0x283=in the Mushroom Kingdom
+0x6b =in the Mushroom Kingdom
+0xf2 =inside Toadley Clinic
+0xf3 =inside Toadley Clinic
+0xf4 =inside Toadley Clinic
+0x12a=inside Toadley Clinic
+0x13b=inside Toadley Clinic
+0x100=inside Toadley Clinic
+0x12b=in Toad Town
+0x12c=in Toad Town
+0x12d=in Toad Town
+0xa3 =in Toad Town
+0xf1 =in Toad Town
+0x9d =in Toad Town
+0x9e =in Toad Town
+0x9f =in Toad Town
+0xa1 =in Toad Town
+0xa0 =in Toad Town
+0xa2 =in Toad Town
+0x9b =in Toad Town
+0x128=in Toad Town
+0x129=in Toad Town
+0xcc =in Toad Town
+0xd0 =in Toad Town
+0xcb =in Toad Town
+0xcd =in Toad Town
+0xce =in Toad Town
+0xcf =in Toad Town
+0xec =in Toad Town
+0xed =in Toad Town
+0xee =in Toad Town
+0xef =in Toad Town
+0xf0 =in Toad Town
+0xe8 =in Toad Town
+0x27e=in Toad Town
+0x289=inside Broque Madames House
+0x288=in Blubble Lake
+0x105=in Blubble Lake
+0x106=in Blubble Lake
+0x107=in Blubble Lake
+0xf9 =in Blubble Lake
+0x111=in Blubble Lake
+0x112=in Blubble Lake
+0x113=in Blubble Lake
+0x114=in Blubble Lake
+0x117=in Blubble Lake
+0x116=in Blubble Lake
+0x119=in Blubble Lake
+0x108=in Blubble Lake
+0x118=in Blubble Lake
+0x11b=in Blubble Lake
+0x11a=in Blubble Lake
+0x132=in Blubble Lake
+0x131=in Blubble Lake
+0x104=in Blubble Lake
+0x115=in Blubble Lake
+0x148=in Blubble Lake
+0xfa =in Blubble Lake
+0x130=in Blubble Lake
+0xfd =in Blubble Lake
+0xfb =in Blubble Lake
+0xca =in Blubble Lake
+0xc6 =in Blubble Lake
+0xc8 =in Blubble Lake
+0x231=in Blubble Lake
+0x27f=in Blubble Lake
+0x232=in Blubble Lake
+0xc9 =in Blubble Lake
+0xf8 =in Blubble Lake
+0xfc =in Blubble Lake
+0x13d=in Blubble Lake
+0xf7 =in Blubble Lake
+0x25d=in Blubble Lake
+0x134=inside the Tower of Yikk
+0x135=inside the Tower of Yikk
+0xb7 =inside the Tower of Yikk
+0x144=inside the Tower of Yikk
+0x11d=underwater in Blubble Lake
+0x10a=underwater in Blubble Lake
+0x11c=underwater in Blubble Lake
+0x109=underwater in Blubble Lake
+0x29b=in Bumpsy Plains
+0x5a =in Bumpsy Plains
+0x88 =in Bumpsy Plains
+0x87 =in Bumpsy Plains
+0x54 =in Bumpsy Plains
+0x55 =in Bumpsy Plains
+0x29a=in Bumpsy Plains
+0x5c =in Bumpsy Plains
+0x145=in Bowser Path
+0x78 =in Bowser Path
+0x79 =in Bowser Path
+0x7a =in Bowser Path
+0x7b =in Bowser Path
+0x6d =in Bowser Path
+0x71 =in Bowser Path
+0x6e =in Bowser Path
+0x72 =in Bowser Path
+0x7d =in Bowser Path
+0x73 =in Bowser Path
+0x74 =in Bowser Path
+0x7e =in Bowser Path
+0x7c =in Bowser Path
+0x15c=in Bowser Castle
+0x25 =in Bowser Castle
+0x26 =in Bowser Castle
+0x27 =in Bowser Castle
+0x290=outside Bowser's Preservation Chamber
+0x28e=outside Bowser's Preservation Chamber
+0x28f=inside Bowser's Preservation Chamber
+0x28 =in Bowser Castle
+0x2a =in Bowser Castle
+0x185=in Bowser Castle
+0x29 =in Bowser Castle
+0x2c =in Bowser Castle
+0x18d=in Bowser Castle
+0x93 =in Bowser Castle
+0x92 =in Bowser Castle
+0x91 =in Bowser Castle
+0x8a =in Bowser Castle
+0x8e =in Bowser Castle
+0x8f =in Bowser Castle
+0x90 =in Bowser Castle
+0x70 =in Bowser Castle
+0x8b =in Bowser Castle
+0x186=in Bowser Castle
+0x8d =in Bowser Castle
+0x8c =in Bowser Castle
+0x96 =in Bowser Castle
+0x99 =in Bowser Castle
+0x94 =in Bowser Castle
+0x19a=in Bowser Castle
+0x173=in Bowser Castle
+0x174=in Bowser Castle
+0x23c=in Bowser Castle
+0x19b=in Bowser Castle
+0x18c=in Bowser Castle
+0x175=in Bowser Castle
+0x171=in Bowser Castle
+0x97 =in Bowser Castle
+0x172=in Bowser Castle
+0x98 =in Bowser Castle
+0x89 =in Bowser Castle
+0x2b =in Bowser Castle
+0x2d =in Bowser Castle
+0x16b=in Bowser Castle
+0x200=in Bowser Castle
+0x158=in Bowser Castle
+0x157=in Bowser Castle
+0x16c=in Bowser Castle
+0x22e=in Bowser Castle
+0x230=in Bowser Castle
+0x247=in Bowser Castle
+0x29c=in Bowser Castle
+0x56 =in Bowser Castle
+0x57 =in Bowser Castle
+0x58 =in Bowser Castle
+0x59 =in Bowser Castle
+0x5d =in Bowser Castle
+0x5e =in Bowser Castle
+0xd1 =in Bowser Castle
+0x9a =in Bowser Castle
+0x41 =in Bowser Castle
+0x187=in Bowser Castle
+0x167=on the Railroad
+0x168=on the Railroad
+0x169=on the Railroad
+0x15b=on the Railroad
+0xdd =on the Railroad
+0xdc =on the Railroad
+0xde =on the Railroad
+0x159=on the Railroad
+0x15a=on the Railroad
+0xd2 =in Underground Tunnel
+0xd3 =in Underground Tunnel
+0xd5 =in Underground Tunnel
+0xd4 =in Underground Tunnel
+0xd6 =in Underground Tunnel
+0xd7 =in Underground Tunnel
+0xd8 =in Underground Tunnel
+0xd9 =in Underground Tunnel
+0xdb =in Underground Tunnel
+0xda =in Underground Tunnel
+0x137=in Underground Tunnel
+0x27b=in Cavi Cape
+0x209=in Cavi Cape
+0x20a=in Cavi Cape
+0x162=in Cavi Cape
+0x20b=in Cavi Cape
+0x15e=in Cavi Cape
+0x15f=in Cavi Cape
+0x161=in Cavi Cape
+0x163=in Cavi Cape
+0x160=in Cavi Cape
+0x20c=in Cavi Cape
+0x20d=in Cavi Cape
+0x1fb=in Cavi Cape
+0x15d=in Cavi Cape
+0x277=in Cavi Cape
+0x287=in Plack Beach
+0x10 =in Plack Beach
+0x11 =in Plack Beach
+0x12 =in Plack Beach
+0x13 =in Plack Beach
+0x3d =in Plack Beach
+0x23 =in Plack Beach
+0x24 =in Plack Beach
+0x1e =in Plack Beach
+0x153=in Plack Beach
+0x154=in Plack Beach
+0x1a =in Plack Beach
+0x35 =in Plack Beach
+0x37 =in Plack Beach
+0x36 =in Plack Beach
+0x1f =in Plack Beach
+0x20 =in Plack Beach
+0x3e =in Plack Beach
+0x28b=in Plack Beach
+0x156=in Plack Beach Cliff
+0x176=in Plack Beach Cliff
+0x177=in Plack Beach Cliff
+0x164=in Plack Beach Cliff
+0x166=in Plack Beach Cliff
+0x165=in Plack Beach Cliff
+0x16f=in Plack Beach Cliff
+0x170=in Plack Beach Cliff
+0xad =in Dimble Wood
+0xac =in Dimble Wood
+0xaa =in Dimble Wood
+0x80 =in Dimble Wood
+0x7f =in Dimble Wood
+0x81 =in Dimble Wood
+0xa8 =in Dimble Wood
+0xa9 =in Dimble Wood
+0x4a =in Dimble Wood
+0xab =in Dimble Wood
+0x5b =in Dimble Wood
+0xb3 =in Dimble Wood
+0xb4 =in Dimble Wood
+0x50 =in Dimble Wood
+0x66 =in Dimble Wood
+0xb0 =in Dimble Wood
+0xb5 =in Dimble Wood
+0x32 =in Dimble Wood
+0xb6 =in Dimble Wood
+0x33 =in Dimble Wood
+0x30 =in Dimble Wood
+0x31 =in Dimble Wood
+0x4c =in Dimble Wood
+0x49 =in Dimble Wood
+0x48 =in Dimble Wood
+0xb2 =in Dimble Wood
+0x47 =in Dimble Wood
+0x178=in Dimble Wood
+0x60 =in Dimble Wood
+0xb1 =in Dimble Wood
+0x53 =in Dimble Wood
+0xae =in Dimble Wood
+0x28d=in Dimble Wood
+0x188=in Dimble Wood
+0x199=in Dimble Wood
+0x18f=in Dimble Wood
+0x19c=in Dimble Wood
+0x189=in Dimble Wood
+0x18b=in Dimble Wood
+0x2e =in Dimble Wood
+0x52 =in Dimble Wood
+0xaf =in Dimble Wood
+0x2f =in Dimble Wood
+0x6f =in Dimble Wood
+0x6a =in Dimble Wood
+0x67 =in Dimble Wood
+0x249=in Dimble Wood
+0x248=in Dimble Wood
+0x24a=in Dimble Wood
+0x46 =in Dimble Wood
+0x16d=in Dimble Wood
+0x18e=in Dimble Wood
+0x190=in Dimble Wood
+0x120=in Toad Town Caves
+0x11f=in Toad Town Caves
+0xf6 =in Toad Town Caves
+0xea =in Toad Town Caves
+0x12f=in Toad Town Caves
+0x121=in Toad Town Caves
+0x122=in Toad Town Caves
+0x123=in Toad Town Caves
+0xeb =in Toad Town Caves
+0x124=in Toad Town Caves
+0x125=in Toad Town Caves
+0x126=in Toad Town Caves
+0x127=in Toad Town Caves
+0xf5 =in Toad Town Caves
+0x139=in Toad Town Caves
+0x21d=inside Peachs Castle
+0x9c =inside Peachs Castle
+0x24d=inside Peachs Castle
+0x24e=inside Peachs Castle
+0x24f=inside Peachs Castle
+0x218=inside Peachs Castle
+0x21a=inside Peachs Castle
+0x216=inside Peachs Castle
+0x217=inside Peachs Castle
+0x1a8=in Peachs Castle Garden
+0x1a9=in Peachs Castle Garden
+0x1aa=in Peachs Castle Garden
+0x1e9=in Peachs Castle Garden
+0x1af=in Peachs Castle Garden
+0x195=in Peachs Castle Garden
+0x1e2=in Peachs Castle Garden
+0x1e7=in Peachs Castle Garden
+0x1e6=in Peachs Castle Garden
+0x1e3=in Peachs Castle Garden
+0x1e8=in Peachs Castle Garden
+0x1e4=in Peachs Castle Garden
+0x1e5=in Peachs Castle Garden
+0x19d=in Peachs Castle Garden
+0x19e=in Peachs Castle Garden
+0x196=in Peachs Castle Garden
+0x1ec=in Peachs Castle Garden
+0x1eb=in Peachs Castle Garden
+0x1ea=in Peachs Castle Garden
+0x252=in Peachs Castle Garden
+0x253=in Peachs Castle Garden
+0x1bf=inside Peachs Castle
+0x1c0=inside Peachs Castle
+0x1c1=inside Peachs Castle
+0x1a3=inside Peachs Castle
+0x1c3=inside Peachs Castle
+0x1c4=inside Peachs Castle
+0x1c5=inside Peachs Castle
+0x1ca=inside Peachs Castle
+0x1c7=inside Peachs Castle
+0x1c6=inside Peachs Castle
+0x1c9=inside Peachs Castle
+0x1c8=inside Peachs Castle
+0x1cf=inside Peachs Castle
+0x1d0=inside Peachs Castle
+0x1d5=inside Peachs Castle
+0x1d1=inside Peachs Castle
+0x1d4=inside Peachs Castle
+0x1d2=inside Peachs Castle
+0x1cb=inside Peachs Castle
+0x1cd=inside Peachs Castle
+0x1cc=inside Peachs Castle
+0x1ce=inside Peachs Castle
+0x1a4=inside Peachs Castle
+0x1c2=inside Peachs Castle
+0x1b0=inside Peachs Castle
+0x1b1=inside Peachs Castle
+0x1b2=inside Peachs Castle
+0x1b3=inside Peachs Castle
+0x1b5=inside Peachs Castle
+0x1b4=inside Peachs Castle
+0x1b6=inside Peachs Castle
+0x1b7=inside Peachs Castle
+0x1b9=inside Peachs Castle
+0x1b8=inside Peachs Castle
+0x1ba=inside Peachs Castle
+0x1bb=inside Peachs Castle
+0x1e1=inside Peachs Castle
+0x1bc=inside Peachs Castle
+0x1a5=inside Peachs Castle
+0x1a6=inside Peachs Castle
+0x1bd=inside Peachs Castle
+0x1ae=inside Peachs Castle
+0x1be=inside Peachs Castle
+0x1d3=inside Peachs Castle
+0x1db=inside Peachs Castle
+0x1da=inside Peachs Castle
+0x1d8=inside Peachs Castle
+0x1d9=inside Peachs Castle
+0x1d7=inside Peachs Castle
+0x23f=inside Peachs Castle
+0x240=inside Peachs Castle
+0x1dc=inside Peachs Castle
+0x241=inside Peachs Castle
+0x20e=inside Peachs Castle
+0x20f=inside Peachs Castle
+0x257=inside Peachs Castle
+0x259=inside Peachs Castle
+0x274=inside Peachs Castle
+0x258=inside Peachs Castle
+0x25c=inside Peachs Castle
+0x298=inside Peachs Castle
+0x1a2=inside Peachs Castle
+0x1a7=inside Peachs Castle
+0x250=inside Peachs Castle
+0x236=on the Top of Peachs Castle
+0x237=on the Top of Peachs Castle
+0x238=on the Top of Peachs Castle
+0x23b=on the Top of Peachs Castle
+0x239=on the Top of Peachs Castle
+0x23a=on the Top of Peachs Castle
+0x22c=on the Top of Peachs Castle
+0x25f=on the Top of Peachs Castle
+0x235=on the Top of Peachs Castle
+0x226=on the Top of Peachs Castle
+0x221=on the Top of Peachs Castle
+0x222=on the Top of Peachs Castle
+0x299=on the Top of Peachs Castle
+0x223=on the Top of Peachs Castle
+0x281=on the Top of Peachs Castle
+0x296=in Trash Pit
+
+Lookup:BottomArea
+0x1b =inside Bowsers Body
+0x12e=in Pipe Yard
+0x1fc=in Funny Bone
+0x152=in Lumbar Nook
+0x16a=in Toad Square
+0x28a=in the Challenge Node
+0x13a=in Joint Tower
+0x147=in Joint Tower
+0x11e=in Nose Deck
+0x155=in Nose Deck
+0x1ac=in Chest Station
+0x1ad=in Chest Station
+0x1ab=in Chest Station
+0x1c =in Arm Center
+0x284=in Arm Center
+0x16e=in Gut Check
+0x34 =in Gut Check
+0x77 =in Rump Command
+0xff =in Rump Command
+0x24b=in Rump Command
+0x24c=in Rump Command
+0x202=in Rump Command
+0x233=in Rump Command
+0x22f=in Rump Command
+0x29d=in Rump Command
+0x294=in Rump Command
+0x25a=in Rump Command
+0x25b=in Rump Command
+0x14d=in Leg Outpost
+0x136=in Leg Outpost
+0x3a =in Nerve Cluster
+0x3b =in Nerve Cluster
+0x3c =in Nerve Cluster
+0x6c =in Nerve Cluster
+0x38 =in Flame Pipe
+0x39 =in Flame Pipe
+0x149=in Memory Banks
+0x14a=in Memory Banks
+0x14b=in Memory Banks
+0x215=in Trash Pit
+0x21c=in Trash Pit
+0x21b=in Trash Pit
+0x212=in Trash Pit
+0x213=in Trash Pit
+0x214=in Trash Pit
+0x206=in Trash Pit
+0x211=in Trash Pit
+0x205=in Trash Pit
+0x207=in Trash Pit
+0x204=in Trash Pit
+0x203=in Trash Pit
+0x210=in Trash Pit
+0x1fe=in Trash Pit
+0x1fd=in Trash Pit
+0x295=in Trash Pit
+0x297=in Trash Pit
+0x5  =in Pump Works
+0x1d =in Pump Works
+0x8  =in Pump Works
+0x17 =in Pump Works
+0x18 =in Pump Works
+0x19 =in Pump Works
+0x6  =in Pump Works
+0xa  =in Pump Works
+0xf  =in Pump Works
+0x9  =in Pump Works
+0x21 =in Pump Works
+0x15 =in Pump Works
+0xc  =in Pump Works
+0x16 =in Pump Works
+0x14 =in Pump Works
+0xd  =in Pump Works
+0x22 =in Pump Works
+0xe  =in Pump Works
+0xa4 =in Energy Hold
+0xa5 =in Energy Hold
+0xa6 =in Energy Hold
+0xa7 =in Energy Hold
+0xb9 =in Energy Hold
+0xbd =in Energy Hold
+0xbe =in Energy Hold
+0xbf =in Energy Hold
+0xc4 =in Energy Hold
+0xe6 =in Energy Hold
+0xe7 =in Energy Hold
+0xc5 =in Energy Hold
+0xc2 =in Energy Hold
+0xe3 =in Energy Hold
+0xe5 =in Energy Hold
+0xe4 =in Energy Hold
+0xce =in Energy Hold
+0xc0 =in Energy Hold
+0xe1 =in Energy Hold
+0xe2 =in Energy Hold
+0xc1 =in Energy Hold
+0xba =in Energy Hold
+0xbb =in Energy Hold
+0xdf =in Energy Hold
+0xe0 =in Energy Hold
+0xbc =in Energy Hold
+0x10b=in Energy Hold
+0x10c=in Energy Hold
+0x10d=in Energy Hold
+0x10e=in Energy Hold
+0x14c=in Energy Hold
+0x10f=in Energy Hold
+0x110=in Energy Hold
+0x000=in Energy Hold
+0x76 =in Flab Zone
+0x4d =in Flab Zone
+0x4e =in Flab Zone
+0xb8 =in Flab Zone
+0x61 =in Flab Zone
+0x62 =in Flab Zone
+0x69 =in Flab Zone
+0x84 =in Flab Zone
+0x63 =in Flab Zone
+0x82 =in Flab Zone
+0x64 =in Flab Zone
+0x65 =in Flab Zone
+0x68 =in Flab Zone
+0x86 =in Flab Zone
+0x83 =in Flab Zone
+0x85 =in Flab Zone
+0x4f =in Flab Zone
+0x42 =in Flab Zone
+0x43 =in Flab Zone
+0x95 =in Flab Zone
+0x51 =in Flab Zone
+0x5d =in Flab Zone
+0x181=in Airway
+0x182=in Airway
+0x179=in Airway
+0x17a=in Airway
+0x1fa=in Airway
+0x17b=in Airway
+0x184=in Airway
+0x17f=in Airway
+0x17c=in Airway
+0x17d=in Airway
+0x17e=in Airway
+0x183=in Airway
+0x180=in Airway
+0x1f1=in Airway
+0x1f2=in Airway
+0x1f3=in Airway
+0x1f7=in Airway
+0x1f4=in Airway
+0x1f5=in Airway
+0x1f6=in Airway
+0x1f8=in Airway
+0x1f9=in Airway
+
+Lookup:AttackSelected
+0x1c=the Green Shell
+0x1d=the Yoo Who Cannon
+0x1e=the Super Bouncer
+0x1f=the Spin Pipe
+0x20=the Magic Window
+0x22=the Jump Helmet
+0x24=Goomba Storm
+0x25=Koopa Corps
+0x26=Bob-Omb Blitz
+0x27=Magikoopa Mob
+0x00=the Green Shell
+0x01=the Fire Flower
+0x02=the Jump Helmet
+0x03=the Yoo Who Cannon
+0x04=the Super Bouncer
+0x05=the Mighty Meteor
+0x06=the Spin Pipe
+0x07=the Snack Basket
+0x08=the Magic Window
+0x10=the Falling Star
+0x0a=Goomba Storm
+0x0b=Shy Guy Squad
+0x0c=Koopa Corps
+0x0d=Bob-Omb Blitz
+0x0e=Magikoopa Mob
+0x0f=Broggy Bonker
+
+Display:
+?S0xH85A49=h42S0xH85A49=h45S0xH85A49=h67?Starting up the game.
+?0xH085a49=h02?Testing the microphone.
+?S0x33abe4=h279S0x33abe4=h23eS0x33abe4=h29f?Watching the credits.
+?0xH085a49=h06_0x0564e0=h1000?@Character(0xH339504) learning how to fight (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h100a?@Character(0xH339504) learning how to fight (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1016?@Character(0xH339504) learning how to use the Vacuum Block (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1018?@Character(0xH339504) fighting against the Sea Pipe Statue (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1021?@Character(0xH339504) fighting against Scutlet (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1017?@Character(0xH339504) fighting against Broggy (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h102b?@Character(0xH339504) fighting against Wiggler (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1030?@Character(0xH339504) fighting against Durmite (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h106a?@Character(0xH339504) fighting against Midbus (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1040?@Character(0xH339504) fighting against Keratin (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1050?@Character(0xH339504) fighting against an old enemy (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1060?@Character(0xH339504) fighting against Wisdurm (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h106b?@Character(0xH339504) fighting against Bowser Memory ML (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1019?@Character(0xH339504) fighting against a sage upon the Plack Beach Cliffs (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1073?@Character(0xH339504) fighting against Junker (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h107b?@Character(0xH339504) fighting against Blizzard Midbus (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1089?@Character(0xH339504) fighting against the Dark Star (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1080?@Character(0xH339504) fighting against Fawful (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1079?Fighting against the Final Boss (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h1069?@Character(0xH339504) fighting against unfortunately familier enemies (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h3001?Bowser fighting against a giant enemy in Dimble Wood (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h3002?Bowser fighting against the Tower of Yikk (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h3003?Bowser fighting against the Fawful Express (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h3004?Bowser fighting against another castle (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h300b?Mario & Luigi fighting against Durmite X (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h300c?Mario & Luigi fighting against Keratin X (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h300d?Mario & Luigi fighting against Wisdurm X (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h300e?Mario & Luigi fighting against Bowser Memory ML X (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h300f?Mario & Luigi fighting against Junker X (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h3010?Mario & Luigi fighting against Dark Star X (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0x0564e0=h3011?Mario & Luigi fighting against the Secret Boss (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504=1_0x3395d4=h028a_0xQ0564e7=1?@Character(0xH339504) beating high-scores for @AttackSelected(0xH0564e6) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504=3_0x33abe4=h0289_0xQ0564e7=1?@Character(0xH339504) beating high-scores for @AttackSelected(0xH0564e6) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504=3_0x0564e2=hffff_0xQ0564e7=1?Practising @AttackSelected(0xH0564e6) while Bowser is @TopArea(0x33abe4) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504!=1_0x0564e2=hffff_0xQ0564e7=1?Practising @AttackSelected(0xH0564e6) while M & L are @TopArea(0x33abe4) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504=1_0x0564e2=hffff_0xQ0564e7=1?Practising @AttackSelected(0xH0564e6) while M & L are @BottomArea(0x3395d4) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504!=1_0x33abe4=h28f?@Character(0xH339504) looking around in Bowser's Preservation Chamber (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504=3_0x3395d4=h152?@Character(0xH339504) resting in Lumbar Nook (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504!=1_0x0x33abe4=h289?@Character(0xH339504) visiting Broque Madame (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504!=1_0x33abe4=h287_0xH085a49=0?@Character(0xH339504) puzzling with Kuzzle (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504!=1_0x33abe4=h287?@Character(0xH339504) visiting Kuzzle (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504=1_0x3395d4=h14b_0xH085a49=0?@Character(0xH339504) puzzling in Memory Banks (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0x33abe4=hf1_0xH085a49=h1b?@Character(0xH339504) shopping at the Star Shop in Toad Town (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0x33abe4=hf1?@Character(0xH339504) visiting the Star Shop in Toad Town (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0x33abe4=ha3_0xH085a49=h1b?@Character(0xH339504) shopping at Toadles Boutique in Toad Town (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0x33abe4=ha3?@Character(0xH339504) visiting Toadles Boutique in Toad Town (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0x33abe4=h12d_0xH085a49=h1b?@Character(0xH339504) shopping at the Gear Shop in Toad Town (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0x33abe4=h12d?@Character(0xH339504) visiting the Gear Shop in Toad Town (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0x33abe4=h12b_0xH085a49=h1b?@Character(0xH339504) shopping at the Badge Shop in Toad Town (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0x33abe4=h12b?@Character(0xH339504) visiting the Badge Shop in Toad Town (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0x33abe4=h12c_0xH085a49=h1b?@Character(0xH339504) shopping at the Item Store in Toad Town (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0x33abe4=h12c?@Character(0xH339504) visiting the Item Store in Toad Town (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504!=1_0x33abe4=h28d_0x33638e<14_0xH085a49=h1b?@Character(0xH339504) shopping at Broggys "Shop" (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504!=1_0x33abe4=h28d_0xH085a49=h1b?@Character(0xH339504) shopping at Broque Monsieurs Shop (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504=3_0x33abe4=h28d_0x3363aa<19_0x33638e<27?@Character(0xH339504) visiting Broque Monsieur (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?O:0xH339504=128_0xH339504=0_0x33abe4=653_0x33896e<19_0x33897e<27?@Character(0xH339504) visiting Broque Monsieur (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504=1_0xH085a49=h06_0x3395d4=h28a?@Character(0xH339504) travelling in the Challenge Node (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504=1_0x3395d4=h28a_0x3388d5>h900_0x337325>h1800?@Character(0xH339504) trying their best at the 99-Block (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xP056210=1_0xH085a49=6_O:0x0564e0=h102a_0x0564e0=h102e?Luigi fighting @TopArea(0x33abe4) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xP056210=1_0x33abe4>h187_0x33abe4<h19a?Luigi travelling @TopArea(0x33abe4) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h1b_0xH339504=1?@Character(0xH339504) shopping @BottomArea(0x3395d4) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h1b_0xH339504=3?@Character(0xH339504) shopping at a Shop Block @TopArea(0x33abe4) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h1b?@Character(0xH339504) shopping @TopArea(0x33abe4) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06_0xH339504=1?@Character(0xH339504) fighting @BottomArea(0x3395d4) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH085a49=h06?@Character(0xH339504) fighting @TopArea(0x33abe4) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+?0xH339504=1?@Character(0xH339504) travelling @BottomArea(0x3395d4) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+@Character(0xH339504) travelling @TopArea(0x33abe4) (M Lv. @Digit(0xH056390) | L Lv. @Digit(0xH0563c0) | B Lv. @Digit(0xH0563f0) | ⏰ @Playtime(0xX0564b4))
+
+//More readable version for the Area IDs: https://gist.github.com/blueYOSHI9000/45bc7b2f18505488a9b995a5e27e8691

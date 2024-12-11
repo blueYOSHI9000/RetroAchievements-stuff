@@ -1,0 +1,40 @@
+Format:Digit
+FormatType=VALUE
+
+Display:
+?0xH0a094a=02?Booting the game.
+?0xH159b00=h69?Selecting a file.
+?0xH159b00=hff_p0xH159b00=h69?Loading a file...
+?0xH159b00=h87?Died while trying to picnic.
+?0xH159b00=hff_0xH10f291=0?Died while trying to picnic.
+?0xH159b00=h6a_p0xH159b00=h87?Died while trying to picnic.
+?0xH159b00=h6a?Looking at the title screen.
+?0xH159b00=h11_0x75273b=00_0xH75273a=h42?Enjoying a nice picnic! ...you didn't waste all the food, did you?
+?0xH159b00=h11_0xH074097=2?Preparing for a nice picnic and to pierce the heavens.
+?0xH159b00=h11?Traveling to a nice place for a picnic.
+?0xH159b00=hff_p0xH159b00=h11?Reaching the lowest realm.
+?0xH159b00=h07_A:0xH7451cb_0xH74754b=0?Fighting Atlas alone. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=7_0xH74625b=0_N:0xH7451cb!=0_0xH74754b!=0?Fighting Chains of Atlas. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=7_0xH74625b=0_O:0xH7451cb!=0_0xH74754b!=0?Fighting Chain of Atlas. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=7_0xH74625b!=0_N:0xH7451cb!=0_0xH74754b!=0?Fighting Atlas with his chains. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=7_0xH74625b!=0_O:0xH7451cb!=0_0xH74754b!=0?Fighting Atlas with his chain. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=h07?Fighting Atlas. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=hff_p0xH159b00=h07?Reaching the earthly realm.
+?0xH159b00=8_A:0xH7486bb_A:0xH74a2ab_A:0xH74b41b_0xH74c58b=0?Fighting Eukrasia. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=h08_0xH7486bb!=0_0xH74a2ab!=0_0xH74b41b!=0_0xH74c58b!=0?Fighting Eukrasia with all 4 Humours. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=h08_C:0xH7486bb=0.1._C:0xH74a2ab=0.1._C:0xH74b41b=0.1._C:0xH74c58b=0.1._M:0=1.3._R:0xH159b00!=8?Fighting Eukrasia with 1 Humour. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=h08_C:0xH7486bb=0.1._C:0xH74a2ab=0.1._C:0xH74b41b=0.1._C:0xH74c58b=0.1._M:0=1.2._R:0xH159b00!=8?Fighting Eukrasia with 2 Humours. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=h08_C:0xH7486bb=0.1._C:0xH74a2ab=0.1._C:0xH74b41b=0.1._C:0xH74c58b=0.1._M:0=1.1._R:0xH159b00!=8?Fighting Eukrasia with 3 Humours. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=h08?Fighting Eukrasia. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=hff_p0xH159b00=h08?Reaching the heavenly realm.
+?0xH159b00=h09_0xH74e86b=0_0xH74f9db!=0?Fighting Innocence. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=h09_0xH74e86b!=0_0xH74f9db=0?Fighting Justice. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=h09?Fighting Justice & Innocence. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=hff_p0xH159b00=h09?Reaching a realm beyond the heavens.
+?0xH159b00=h0a?Fighting The Overgoom. (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=hff_p0xH159b00=h0a?Reaching ????????????.
+?0xH159b00=h0b?Fighting... whatever, is the picnic even worth it anymore?! (Mario @Digit(0xH10f291)/50HP | @Digit(0xH10f296)/50FP)
+?0xH159b00=h8b?Reaching the nice picnic.
+?0xH159b00=hff_p0xH159b00=h8b?Reaching the nice picnic.
+?0xH0a094a=0?Looking at the title screen.
+Exploring the world. Probably.

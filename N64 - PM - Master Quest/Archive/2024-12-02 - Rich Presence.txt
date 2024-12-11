@@ -1,0 +1,42 @@
+Lookup:Partner
+0=Alone
+1=with Goombario
+2=with Kooper
+3=with Bombette
+4=with Parakarry
+5=with Bow
+6=with Watt
+7=with Sushie
+8=with Lakilester
+0x12=Alone
+0x21=with Goompa
+0x80=Alone
+0x81=with Princess Peach
+0x82=Alone
+0x83=Alone
+0x89=Alone
+0x9d=with Goompa
+0x9e=Alone
+
+Format:Level
+FormatType=VALUE
+
+Lookup:Spirit
+0=No
+1=1
+2=2
+3=3
+4=4
+5=5
+6=6
+7=7
+
+Format:TotalBattles
+FormatType=VALUE
+
+Format:StarPieces
+FormatType=VALUE
+
+Display:
+?0xh10f29b=64?[:regional_indicator_l:] Traveling @Partner(0x2dfa48), Level: @Level(0xh10f29a), @Spirit(0xl10f51d) Star Spirits Rescued, @TotalBattles(0x10f530) Total Battles and @StarPieces(0xh10f5be) Star Pieces //Luigi Challenge Activated
+Traveling @Partner(0x2dfa48), Level: @Level(0xh10f29a), @Spirit(0xl10f51d) Star Spirits Rescued, @TotalBattles(0x10f530) Total Battles and @StarPieces(0xh10f5be) Star Pieces

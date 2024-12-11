@@ -1,0 +1,105 @@
+Lookup:Room
+0x01=Mudroom & Outside
+0x02=Entrance Hall
+0x03=Parlor
+0x04=Garage
+0x05=Hallway (F1 after Parlor & before Study)
+0x06=Dining Room
+0x07=Kitchen
+0x08=Pantry
+0x09=Living Room
+0x0a=Study
+0x0b=Library
+0x0c=Hallway (F1 after Library)
+0x0d=Hallway (F1 behind red door)
+0x0e=Treasury
+
+0x0f=Lounge
+0x10=Bar
+0x11=Balcony
+0x12=Bathroom
+0x13=Den
+0x14=Mirror Room
+0x15=Bedroom (green)
+0x16=Bedroom (pink)
+0x17=Wardrobe
+0x18=Bedroom (blue)
+0x19=Bedroom (yellow)
+0x1a=Servant's Quarters
+0x1b=Office
+0x1c=Master Bedroom
+0x1d=Hallway (F2 after Master Bedroom)
+0x1e=Hallway (F2 before Play Room)
+0x1f=Play Room
+0x20=Pool Room
+
+0x21=Garden & spinning down from Den
+0x22=Dog House
+0x23=Underground
+0x24=Conservatory
+
+0x25=The City
+0x26=House (in city with blue coins)
+0x27=The City(past the bridge)
+0x28=The Gallery
+0x29=House (with the Star Pieces)
+0x2a=The Terrarium
+0x2b=The Terrarium (the cave inside it)
+0x2c=The Cave
+0x2d=The Cave (used in the part with the boo)
+0x2e=Snowglobe
+0x2f=Snowglobe (below the Snowglobe)
+0x30=Ice Castle
+
+0x31=Hallway (F3 before Trophy Room)
+0x32=Trophy Room
+0x33=Hallway (F3 before Music Room)
+0x34=Music Room
+0x35=Game Room
+0x36=Panic Room
+0x37=Hallway (F3 before Morning Room)
+0x38=Morning Room
+0x39=Theater
+0x3a=Outside (first half)
+0x3b=Outside (second half)
+0x3c=Treehouse
+0x3d=Hallway (F3 before & after Theater)
+0x3e=Sauna
+0x3f=Attic
+0x40=Attic (PROBABLY - should be the red coin room - not tested yet)
+
+0x41=The Corridor
+0x42=Laundry Room
+0x43=Gym
+0x44=Wine Cellar
+0x45=Root Cellar
+0x46=Meat Locker
+0x47=Engine Room
+0x48=T!rt!re €chambeR
+0x49=Elevator (PROBABLY - not tested yet)
+0x4a=The Lab
+
+0x4b=Outside (Mind, before Art Gallery)
+0x4c=Art Gallery
+0x4d=Outside (Mind, before Mind Palace)
+0x4e=The Mind Palace
+0x4f=Outside (Mind, before Laboratory)
+0x50=The Laboratory
+0x51=Outside (before Dream Room)
+0x52=Dream Room
+0x53=Outside (Mind, after Dream Room)
+0x54=Observatory
+0x55=The Memory Hole
+0x56=Outside (Mind, before portal)
+
+0x57=The Roof
+
+0x58=Outside (Mario's Manor)
+0x59=Main Hall
+0x5a=Hallway (F1)
+0x5b=Living Room
+0x5c=Kitchen
+0x5d=Lounge
+0x5e=Entertainment Room
+0x5f=Basement
+0x60=Bedroom

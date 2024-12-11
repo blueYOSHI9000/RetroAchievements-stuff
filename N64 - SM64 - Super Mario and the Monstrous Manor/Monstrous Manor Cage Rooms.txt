@@ -1,0 +1,99 @@
+**Cage Rooms & nearest Save Point**
+The point of this was to see how viable it is to create "No Damage" cheevos for every individual cage room (as they have a multiplier).
+This lists how far you could have to backtrack depending on where you saved last.
+Each Cage Room lists recommended points in [square brackets] and lists every nearest save-point below it.
+
+- [ 5] Dining Room (Backtracking: good)
+  - Star Piece in Parlor (-> Hallway)
+
+- [ 5] Kitchen (BT: good)
+  - Key from Dining Room (-> Hallway)
+
+- [10] Living Room (BT: good, maybe bad)
+  - Boo from Kitchen? (-> Hallway)
+  - F1 Savepoint? (-> Hallway -> Library -> Study -> Hallway)
+
+- [25] Library (BT: bad)
+  - Boo from Kitchen? (-> Hallway -> Study)
+  - Boo from Living Room? (-> Hallway -> Study)
+
+- [ 3] Bathroom (BT: good)
+  - F2 Savepoint
+  - Key from Balcony? (-> Bar -> Lounge)
+  - Key from Bedroom? (-> Lounge)
+  - Boo from Master Bedroom? (-> Lounge)
+
+- [ 5] Den & Mirror Room (BT: good)
+  - F2 Savepoint
+  - Key from Bathroom? (-> Lounge)
+  - Key from Bedroom? (-> Lounge)
+  - Boo from Master Bedroom? (-> Lounge)
+
+- [10] Conservatory (BT: bad)
+  - Key from Dog House (-> Garden (with Poochy))
+  - F1 Save Point (-> Entrance Hall -> Parlor -> Hallway)
+
+- [ 3] Bedroom (BT: bad)
+  - F2 Savepoint (-> Bedroom (3 colors))
+  - Key from Dog House (-> Garden (Poochy) -> Hallway -> Parlor -> Entrance Hall -> Hallway -> Lounge -> Bedroom (3 colors))
+  - Boo from Conservatory (-> Garden -> Hallway -> Parlor -> Entrance Hall -> Hallway -> Lounge -> Bedroom (3 colors))
+  - Key from Balcony (-> Bar -> Lounge -> Bedroom (3 colors))
+
+- [10] Office (BT: bad)
+  - F2 Savepoint (-> Servant's Quarters)
+  - Key from Bedroom (-> Lounge -> Bar -> Servant's Quarters)
+
+  - Key from Dog House (-> Garden (Poochy) -> Hallway -> Parlor -> Entrance Hall -> Hallway -> Lounge -> Bar -> Servant's Quarters)
+  - Boo from Conservatory (-> Garden -> Hallway -> Parlor -> Entrance Hall -> Hallway -> Lounge -> Bar -> Servant's Quarters)
+
+- [10] Master Bedroom (BT: good)
+  - F2 Savepoint (-> Lounge)
+  - Key from Office (-> Servant's Quarters -> Lounge)
+
+  - Key from Dog House (-> Garden (Poochy) -> Hallway -> Parlor -> Entrance Hall -> Hallway -> Lounge -> Bar -> Servant's Quarters)
+  - Boo from Conservatory (-> Garden -> Hallway -> Parlor -> Entrance Hall -> Hallway -> Lounge -> Bar -> Servant's Quarters)
+
+- [ 5] The Cave (BT: really bad, maybe good if using the other Star Coin)
+  - The City Save Point (-> The Terrarium -> The Cave)
+  - Snowglobe Save Point/any Snowglobe Star Coin (-> The Cave)
+  - Any Terrarium Star Coin (-> The Cave)
+  - the other The Cave Star Coin
+
+- [10] Ice Castle (BT: good)
+  - Snowglobe Save Point/any Snowglobe Star Coin
+
+- [10] Fly Guy (BT: good enough)
+  - The City, past the bridge Save Point/any Star Coin there
+
+- [ 5] Game Room (BT: good)
+  - Key from Music Room
+
+- [25] Theater (BT: bad)
+  - Boo from Game Room (-> Hallway -> Trophy Room -> Hallway -> Morning Room -> Hallway)
+  - Boo from Treehouse (-> Outside -> Morning Room -> Hallway)
+  - F3 Save Point (-> Hallway -> Morning Room -> Hallway)
+
+- [ 5] Attic (BT: Really good)
+  - F3 Save Point, after Sauna
+
+  - Boo from Theater (-> Hallway -> Sauna -> Trophy Room)
+
+- [10] Laundry Room (BT: Really good)
+  - Basement Save Point
+
+  - Boo from Attic (-> Trophy Room -> Hallway -> Lounge -> Hallway -> Entrance Hall -> Parlor -> Garage -> The Corridor)
+
+- [ 5] Art Gallery (BT: Good, maybe god awful)
+  - The Lab Save Point (-> Monstrous Mind Outside)
+  - Boo from Laundry Room (-> all Basement Progress -> Elevator -> Outside)
+  - Star Piece from Meat Locker (-> all Basement Progress -> Elevator -> Outside)
+
+- [ 5] Outside Cage (BT: Really Good)
+  - Cage from Art Gallery
+
+- [10] The Laboratory
+  - Mind Palace Save Point (-> Outside)
+  - Cage from Outside (-> Mind Palace -> Outside)
+
+- [10] Observatory (BT: Awful)
+  - Key on chair (-> Mind Palace -> Outside -> Dream Room -> Outside)

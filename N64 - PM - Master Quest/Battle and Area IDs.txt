@@ -65,473 +65,473 @@ Area & Map IDs work in the following way: The first 2 symbols are the Area ID, t
 | 0802 | 0035 | Pit F100, Illusion Peach & Illusion Twink
 +------+------+----- - -  -  -   -    -
 
-+------+------------ - -  -  -   -    -
-|Area &| Area
-|Map ID| Name
-+------+------------ - -  -  -   -    -
-| 000b | Mario's House
-| 1700 | Outside Peach's Castle (when whole - used in Intro & Finale)
-| 0101 | Toad Town, Main Gate Square
-| 0102 | Toad Town, North Plaza
-| 0103 | Toad Town, South Plaza
-| 1701 | Toad Town, Outside Peach's Castle
-| 0105 | Toad Town, Residential District
-| 0106 | Toad Town, Harbor
-| 0104 | Toad Town, Train Station
-| 1900 | Playroom Lobby
-| 1901 | Playroom, Jump Attack
-| 1902 | Playroom, Smash Attack
-| 0205 | Toad Town Tunnels
-| 020e | Toad Town Tunnels
-| 0201 | Toad Town Tunnels
-| 0200 | Toad Town Tunnels
-| 0202 | Toad Town Tunnels
-| 0203 | Toad Town Tunnels
-| 0204 | Toad Town Tunnels
-| 0206 | Toad Town Tunnels
-| 020a | Toad Town Tunnels
-| 0207 | Toad Town Tunnels
-| 0208 | Toad Town Tunnels
-| 0209 | Toad Town Tunnels
-| 0210 | Toad Town Tunnels
-| 0211 | Toad Town Tunnels
-| 020b | Toad Town Tunnels
-| 020c | Toad Town Tunnels
-| 0213 | Toad Town Tunnels
-| 0214 | Toad Town Tunnels
-| 0215 | Toad Town Tunnels
-| 0212 | Toad Town Tunnels
-| 020d | Toad Town Tunnels
-| 020f | Toad Town Tunnels
-| 0400 | Peach's Castle Lower Lobby (Intro & Finale)
-| 040d | Peach's Castle Kitchen
-| 0401 | Peach's Castle, Upper Lobby (Intro)
-| 0408 | Peach's Castle, Peach's Room
-| 0416 | Peach's Castle, behind the furnace
-| 0402 | Peach's Castle Staircase to Hallway (Intro)
-| 0403 | Peach's Castle Hallway (Intro)
-| 0407 | Peach's Castle Hallway
-| 0409 | Peach's Castle, Diary Room
-| 0414 | Peach's Castle, Peach's Balcony
-| 0405 | Peach's Castle, Upper Lobby
-| 040a | Peach's Castle, Library
-| 040c | Peach's Castle, Dining Room
-| 040b | Peach's Castle, Storage Room
-| 0404 | Peach's Castle, Lower Lobby
-| 040f | Peach's Castle, Quiz Room (no quiz present)
-| 0418 | Peach's Castle, Quiz Room (with quiz show)
-| 040e | Peach's Castle, Guest Room
-| 0406 | Peach's Castle, Hallway
-| 1702 | Peach's Castle, outside above Bowser's Castle
-| 0410 | Peach's Castle, Staircase
-| 0411 | Peach's Castle, bridge
-| 0412 | Peach's Castle, final staircase
-| 0413 | above Peach's Castle
-| 1704 | Outside Peach's Castle (Castle crashing cutscene, Intro)
-| 1703 | Bowser & Peach's Castle in Galaxy (cutscene)
-| 0507 | Mario falling down to earth (Intro & Finale Cutscene)
-| 000c | Game Logo (Intro, after falling down)
-| 000d | Chapter Opening
-| 000f | Save-Screen after chapter
-| 0000 | Mario's Landing Spot near Goomba Village
-| 0001 | Goomba Village
-| 0002 | behind Goomba Village
-| 0003 | Jr. Troopa's Playground
-| 0004 | woods behind Goomba Village
-| 0007 | Goomba Road
-| 0005 | Goomba Road
-| 0006 | Goomba Road
-| 000a | Goomba Road
-| 0009 | Goomba King's "Fortress"
-| 0014 | Goomba Road
-| 0008 | Goomba Road
-| 0013 | abandoned house near Toad Town
-| 0011 | outside the Ancient Tomb
-| 0012 | Ancient Tomb
-| 0015 | Ancient Tomb
-| 001c | Ancient Tomb
-| 001b | Ancient Tomb
-| 0017 | Ancient Tomb
-| 0016 | Ancient Tomb
-| 0018 | Ancient Tomb
-| 0500 | Shooting Star Summit
-| 0506 | Shooting Star Summit, Donluvlee's house
-| 0509 | Shooting Star Summit
-| 0501 | atop Shooting Star Summit
-| 050a | Shooting Star Summit, outside Star Temple
-| 050b | Star Temple
-| 050c | Shooting Star Summit
-| 050e | Shooting Star Summit
-| 050d | Shooting Star Summit (Masters room)
-| 0604 | Pleasant Path
-| 0605 | Pleasant Path
-| 0606 | Pleasant Path
-| 0600 | Koopa Village
-| 0601 | Koopa Village
-| 0602 | behind Koopa Village
-| 0603 | behind Koopa Village
-| 0607 | Pleasant Path
-| 0608 | Pleasant Path
-| 0700 | Outside Koopa Bros. Fortress
-| 0701 | Koopa Bros. Fortress
-| 0702 | Koopa Bros. Fortress
-| 0703 | Koopa Bros. Fortress
-| 0704 | Koopa Bros. Fortress
-| 0706 | Koopa Bros. Fortress, Jail
-| 0707 | Koopa Bros. Fortress
-| 0708 | Koopa Bros. Fortress
-| 0705 | Koopa Bros. Fortress
-| 0709 | atop Koopa Bros. Fortress
-| 070a | Koopa Bros. Fortress
-| 000e | End of Chapter!!
-| 0806 | Train Track between Toad Town & Mt. Rugged
-| 0805 | Mt. Rugged, Train Station
-| 0800 | Mt. Rugged
-| 0801 | Mt. Rugged
-| 0802 | Mt. Rugged
-| 0804 | Mt. Rugged
-| 0803 | Mt. Rugged
-| 0a31 | Mt. Rugged
-| 0a00 | Dry Dry Desert (A1)
-| 0a07 | Dry Dry Desert (A2)
-| 0a0e | Dry Dry Desert (A3)
-| 0a15 | Dry Dry Desert (A4)
-| 0a1c | Dry Dry Desert (A5)
-| 0a23 | Dry Dry Desert (A6)
-| 0a2a | Dry Dry Desert (A7)
-| 0a01 | Dry Dry Desert (B1)
-| 0a08 | Dry Dry Desert (B2)
-| 0a0f | Dry Dry Desert (B3)
-| 0a16 | Dry Dry Desert (B4)
-| 0a1d | Dry Dry Desert (B5)
-| 0a24 | Dry Dry Desert (B6)
-| 0a2b | Dry Dry Desert (B7)
-| 0a02 | Dry Dry Desert (C1)
-| 0a09 | Dry Dry Desert (C2)
-| 0a10 | Dry Dry Desert (C3)
-| 0a17 | Dry Dry Desert (C4)
-| 0a1e | Dry Dry Desert (C5)
-| 0a25 | Dry Dry Desert (C6)
-| 0a2c | Dry Dry Desert (C7)
-| 0a03 | Dry Dry Desert (D1)
-| 0a0a | Dry Dry Desert (D2)
-| 0a11 | Dry Dry Desert (D3)
-| 0a18 | Dry Dry Desert (D4)
-| 0a1f | Dry Dry Desert (D5)
-| 0a26 | Dry Dry Desert (D6)
-| 0a2d | Dry Dry Desert (D7)
-| 0a04 | Dry Dry Desert (E1)
-| 0a0b | Dry Dry Desert (E2)
-| 0a12 | Dry Dry Desert (E3)
-| 0a19 | Dry Dry Desert (E4)
-| 0a20 | Dry Dry Desert (E5)
-| 0a27 | Dry Dry Desert (E6)
-| 0a2e | Dry Dry Desert (E7)
-| 0a05 | Dry Dry Desert (F1)
-| 0a0c | Dry Dry Desert (F2)
-| 0a13 | Dry Dry Desert (F3)
-| 0a1a | Dry Dry Desert (F4)
-| 0a21 | Dry Dry Desert (F5)
-| 0a28 | Dry Dry Desert (E7)
-| 0a2f | Dry Dry Desert (E7)
-| 0a06 | Dry Dry Desert (G1)
-| 0a0d | Dry Dry Desert (G2)
-| 0a14 | Dry Dry Desert (G3)
-| 0a1b | Dry Dry Desert (G4)
-| 0a22 | Dry Dry Desert (G5)
-| 0a29 | Dry Dry Desert, Oasis (G6)
-| 0a30 | Dry Dry Desert (G7)
-| 0e0c | Between Mt. Rugged & Gusty Gulch
-| 0e0b | Between Mt. Rugged & Gusty Gulch
-| 0900 | Dry Dry Outpost
-| 0901 | Dry Dry Outpost
-| 0b00 | Dry Dry Ruins
-| 0b01 | Dry Dry Ruins
-| 0b02 | Dry Dry Ruins
-| 0b03 | Dry Dry Ruins
-| 0b05 | Dry Dry Ruins
-| 0b04 | Dry Dry Ruins
-| 0b06 | Dry Dry Ruins
-| 0b07 | Dry Dry Ruins
-| 0b08 | Dry Dry Ruins
-| 0b0a | Dry Dry Ruins
-| 0b0b | Dry Dry Ruins
-| 0b09 | Dry Dry Ruins
-| 0b0d | Dry Dry Ruins
-| 0b0f | Dry Dry Ruins
-| 0b0c | Dry Dry Ruins
-| 0b10 | Dry Dry Ruins
-| 0b0e | Dry Dry Ruins
-| 0c09 | entrance of Forever Forest
-| 0c00 | Forever Forest
-| 0c01 | Forever Forest
-| 0c02 | Forever Forest
-| 0c03 | Forever Forest
-| 0c04 | Forever Forest
-| 0c07 | Forever Forest
-| 0c05 | Forever Forest
-| 0c06 | Forever Forest
-| 0c08 | Forever Forest
-| 0c0a | outside Boo's Mansion
-| 0d00 | Boo's Mansion
-| 0d07 | Boo's Mansion
-| 0d06 | Boo's Mansion
-| 0d01 | Boo's Mansion
-| 0d02 | Boo's Mansion
-| 0d03 | Boo's Mansion
-| 0d04 | Boo's Mansion
-| 0d05 | Boo's Mansion
-| 0d08 | Boo's Mansion
-| 0c0b | Gusty Gulch
-| 0e04 | Gusty Gulch, outside Windmill
-| 0e01 | Gusty Gulch Settlement
-| 0e03 | Gusty Gulch Settlement
-| 0e00 | Gusty Gulch
-| 0e02 | Gusty Gulch
-| 0f00 | outside Tubba Blubba's Castle
-| 0f01 | Tubba Blubba's Castle
-| 0f02 | Tubba Blubba's Castle
-| 0f0b | Tubba Blubba's Castle
-| 0f07 | Tubba Blubba's Castle
-| 0f03 | Tubba Blubba's Castle
-| 0f05 | Tubba Blubba's Castle
-| 0f06 | Tubba Blubba's Castle
-| 0f04 | Tubba Blubba's Castle
-| 0f08 | Tubba Blubba's Castle
-| 0f09 | Tubba Blubba's Castle
-| 0f0a | Tubba Blubba's Castle
-| 0f0c | Tubba Blubba's Castle
-| 0f0d | Tubba Blubba's Castle
-| 0f0e | Tubba Blubba's Castle
-| 0f0f | Tubba Blubba's Castle
-| 0f10 | Tubba Blubba's Castle
-| 0f11 | Tubba Blubba's Castle
-| 0e05 | Gusty Gulch Windmill
-| 0e06 | Gusty Gulch Windmill
-| 0e07 | Gusty Gulch Windmill
-| 0e09 | Gusty Gulch Windmill
-| 0e0a | Gusty Gulch Windmill
-| 0e08 | Gusty Gulch Windmill
-| 1002 | Shy Guy's Toybox, Blue Station
-| 100c | Shy Guy's Toybox, Blue Station
-| 1011 | Shy Guy's Toybox, Blue Station
-| 1000 | Shy Guy's Toybox, Blue Station
-| 1003 | Shy Guy's Toybox, Blue Station
-| 100f | Shy Guy's Toybox, Train Tracks
-| 1005 | Shy Guy's Toybox, Pink Station
-| 1006 | Shy Guy's Toybox, Pink Station
-| 1010 | Shy Guy's Toybox, Pink Station
-| 1004 | Shy Guy's Toybox, Pink Station
-| 1007 | Shy Guy's Toybox, Green Station
-| 1008 | Shy Guy's Toybox, Green Station
-| 1009 | Shy Guy's Toybox, Red Station
-| 100a | Shy Guy's Toybox, Red Station
-| 100b | Shy Guy's Toybox, Red Station
-| 1001 | Shy Guy's Toybox, Red Station
-| 100d | Shy Guy's Toybox, Red Station
-| 100e | Shy Guy's Toybox, Red Station
-| 0300 | inside a ...whale?
-| 0301 | inside a ...whale?
-| 0107 | on the sea between Toad Town & Lavalava Island
-| 1100 | Lavalava Island, Beach
-| 1101 | Lavalava Island, Beach
-| 1102 | Yoshi's Village
-| 1103 | Yoshi's Village
-| 1114 | Lavalava Island, outside Mt. Lavalava
-| 1105 | Jade Jungle
-| 1104 | Jade Jungle
-| 1108 | Jade Jungle
-| 1109 | Jade Jungle
-| 110b | Jade Jungle
-| 110a | Jade Jungle
-| 1106 | Jade Jungle
-| 1107 | Jade Jungle
-| 110c | Jade Jungle
-| 110d | Jade Jungle
-| 110e | Jade Jungle
-| 110f | Jade Jungle
-| 1110 | Jade Jungle
-| 1111 | inside a big tree in Jade Jungle
-| 1112 | inside a big tree in Jade Jungle
-| 1113 | inside a big tree in Jade Jungle
-| 1115 | atop a big tree in Jade Jungle
-| 1200 | Mt. Lavalava
-| 1201 | Mt. Lavalava
-| 1202 | Mt. Lavalava
-| 1203 | Mt. Lavalava
-| 1204 | Mt. Lavalava
-| 1205 | Mt. Lavalava
-| 1206 | Mt. Lavalava
-| 1207 | Mt. Lavalava
-| 1208 | Mt. Lavalava
-| 1209 | Mt. Lavalava
-| 120a | Mt. Lavalava
-| 120b | Mt. Lavalava
-| 120c | Mt. Lavalava
-| 120d | Mt. Lavalava
-| 120e | Mt. Lavalava, escape-sequence
-| 120f | Mt. Lavalava, escape-sequence
-| 1210 | Mt. Lavalava, escape-sequence
-| 1300 | Flower Fields, Central Area
-| 1304 | Flower Fields, East Path
-| 1301 | Flower Fields, East Path
-| 1310 | Flower Fields, East Path
-| 1313 | Flower Fields, Southwest Path
-| 1302 | Flower Fields, Southwest Path
-| 1303 | Flower Fields, Southeast Path
-| 1312 | Flower Fields, Southeast Path
-| 1305 | Flower Fields, Southeast Path
-| 1311 | Flower Fields, West Path
-| 1306 | Flower Fields, West Path
-| 1307 | Flower Fields, West Path
-| 1309 | Flower Fields, Northwest Path
-| 1308 | Flower Fields, Northwest Path
-| 130a | Flower Fields, Northwest Path
-| 130b | Flower Fields, Northeast Path
-| 130c | Flower Fields, Northeast Path
-| 130d | Flower Fields, Northeast Path
-| 130e | Cloudy Climb
-| 130f | Cloudy Climb
-| 1401 | Shiver City
-| 1400 | Shiver City
-| 140a | Shiver City
-| 1402 | Shiver Snowfield
-| 140e | between Shiver Snowfield & Shooting Star Summit
-| 140d | between Shiver Snowfield & Shooting Star Summit
-| 140c | Shiver Snowfield
-| 1403 | Shiver Snowfield
-| 1404 | Shiver Snowfield
-| 1405 | Starborn Valley
-| 1406 | Shiver Mountain
-| 1407 | Shiver Mountain
-| 1408 | Shiver Mountain
-| 1409 | Shiver Mountain
-| 140b | Shiver Mountain
-| 1500 | Crystal Palace
-| 1501 | Crystal Palace
-| 1502 | Crystal Palace
-| 151d | Crystal Palace
-| 1504 | Crystal Palace
-| 150a | Crystal Palace
-| 150b | Crystal Palace
-| 150c | Crystal Palace
-| 1503 | Crystal Palace
-| 151e | Crystal Palace
-| 1505 | Crystal Palace
-| 1507 | Crystal Palace
-| 1509 | Crystal Palace
-| 1506 | Crystal Palace
-| 1508 | Crystal Palace
-| 150d | Crystal Palace
-| 150e | Crystal Palace
-| 1518 | Crystal Palace
-| 151a | Crystal Palace
-| 150f | Crystal Palace
-| 1510 | Crystal Palace
-| 1511 | Crystal Palace
-| 1515 | Crystal Palace
-| 1519 | Crystal Palace
-| 1512 | Crystal Palace
-| 151c | Crystal Palace
-| 1514 | Crystal Palace
-| 151b | Crystal Palace
-| 1513 | Crystal Palace
-| 1516 | Crystal Palace
-| 151f | Crystal Palace
-| 1517 | Crystal Palace
-| 0502 | Star Way
-| 0503 | Star Haven
-| 0504 | Star Haven
-| 0505 | Star Haven
-| 0508 | Star Haven (travelling with vehicle cutscene)
-| 1615 | Star haven (entering Bowser's Castle cutscene)
-| 1618 | Bowser's Castle F1
-| 1617 | Bowser's Castle F1
-| 1606 | Bowser's Castle Basement
-| 1619 | Bowser's Castle F1
-| 1611 | Bowser's Castle F1
-| 161a | Bowser's Castle F1
-| 160c | Bowser's Castle Basement
-| 1607 | Bowser's Castle Basement
-| 1608 | Bowser's Castle Basement
-| 160a | Bowser's Castle Basement
-| 1609 | Bowser's Castle Basement
-| 160b | Bowser's Castle Basement
-| 1605 | Bowser's Castle Basement
-| 1600 | Bowser's Castle Basement, dark room
-| 1601 | Bowser's Castle Basement, dark room
-| 1602 | Bowser's Castle F1
-| 160d | Bowser's Castle F1
-| 161d | Bowser's Castle F1
-| 161e | Bowser's Castle F1, Toad Jail
-| 1621 | Bowser's Castle, Storehouse
-| 1612 | Bowser's Castle F2
-| 1630 | Bowser's Castle F2
-| 1631 | Bowser's Castle F2
-| 162f | Bowser's Castle F2
-| 1625 | Bowser's Castle F2
-| 1626 | Bowser's Castle F2
-| 1627 | Bowser's Castle F2
-| 1628 | Bowser's Castle F2
-| 1629 | Bowser's Castle F2
-| 162a | Bowser's Castle F2
-| 162b | Bowser's Castle F2
-| 162c | Bowser's Castle F2
-| 162d | Bowser's Castle F2
-| 161b | Bowser's Castle F2
-| 1616 | Bowser's Castle F2
-| 160e | Bowser's Castle F2
-| 161f | Bowser's Castle F2
-| 1620 | Bowser's Castle F2, Toad Jail
-| 1604 | Bowser's Castle F3
-| 1623 | Bowser's Castle F3
-| 1613 | Bowser's Castle F3
-| 1603 | Bowser's Castle F3
-| 1622 | Bowser's Castle F3
-| 160f | Bowser's Castle F3
-| 1610 | Bowser's Castle F3
-| 1624 | Bowser's Castle F3
-| 1614 | Bowser's Castle F3
-| 161c | Bowser's Castle F3
-| 162e | Bowser's Castle F3
-| 1800 | Credits
-| 1801 | Credits
-| 0010 | Credits, watching the fireworks
-| 002c | Ancient Dungeon
-| 001a | Ancient Dungeon
-| 001d | Ancient Dungeon
-| 0022 | Ancient Dungeon
-| 001f | Ancient Dungeon
-| 0021 | Ancient Dungeon
-| 001e | Ancient Dungeon
-| 0028 | Ancient Dungeon
-| 0023 | Ancient Dungeon
-| 0024 | Ancient Dungeon
-| 0026 | Ancient Dungeon
-| 0025 | Ancient Dungeon
-| 0027 | Ancient Dungeon
-| 002a | Ancient Dungeon
-| 002b | Ancient Dungeon
-| 0029 | Ancient Dungeon
-| 002d | Ancient Dungeon
-| 0020 | Ancient Dungeon
-| 002f | Ancient Dungeon
-| 0031 | Ancient Dungeon
-| 002e | Ancient Dungeon
-| 0030 | Ancient Dungeon
-| 0032 | Ancient Dungeon
-| 0033 | Ancient Dungeon
-| 0034 | Ancient Dungeon
-| 1c00 | Pit of 100 Trials F1-9
-| 1c0a | Pit of 100 Trials, Rest Room
-| 1c01 | Pit of 100 Trials F11-19
-| 1c02 | Pit of 100 Trials F21-29
-| 1c03 | Pit of 100 Trials F31-39
-| 1c04 | Pit of 100 Trials F41-49
-| 1c05 | Pit of 100 Trials F51-59
-| 1c06 | Pit of 100 Trials F61-69
-| 1c07 | Pit of 100 Trials F71-79
-| 1c08 | Pit of 100 Trials F81-89
-| 1c09 | Pit of 100 Trials F91-99
-| 0035 | Bottom of the Pit of 100 Trials
-+------+------------ - -  -  -   -    -
++------+-----+------------ - -  -  -   -    -
+|Area &|     | Area
+|Map ID|Hack | Name
++------+-----+------------ - -  -  -   -    -
+| 000b |     | Mario's House
+| 1700 |     | Outside Peach's Castle (when whole - used in Intro & Finale)
+| 0101 |     | Toad Town, Main Gate Square
+| 0102 |     | Toad Town, North Plaza
+| 0103 |     | Toad Town, South Plaza
+| 1701 |     | Toad Town, Outside Peach's Castle
+| 0105 |     | Toad Town, Residential District
+| 0106 |     | Toad Town, Harbor
+| 0104 |     | Toad Town, Train Station
+| 1900 |     | Playroom Lobby
+| 1901 |     | Playroom, Jump Attack
+| 1902 |     | Playroom, Smash Attack
+| 0205 |     | Toad Town Tunnels
+| 020e |     | Toad Town Tunnels
+| 0201 |     | Toad Town Tunnels
+| 0200 |     | Toad Town Tunnels
+| 0202 |     | Toad Town Tunnels
+| 0203 |     | Toad Town Tunnels
+| 0204 |     | Toad Town Tunnels
+| 0206 |     | Toad Town Tunnels
+| 020a |     | Toad Town Tunnels
+| 0207 |     | Toad Town Tunnels
+| 0208 |     | Toad Town Tunnels
+| 0209 |     | Toad Town Tunnels
+| 0210 |     | Toad Town Tunnels
+| 0211 |     | Toad Town Tunnels
+| 020b |     | Toad Town Tunnels
+| 020c |     | Toad Town Tunnels
+| 0213 |     | Toad Town Tunnels
+| 0214 |     | Toad Town Tunnels
+| 0215 |     | Toad Town Tunnels
+| 0212 |     | Toad Town Tunnels
+| 020d |     | Toad Town Tunnels
+| 020f |     | Toad Town Tunnels
+| 0400 |     | Peach's Castle Lower Lobby (Intro & Finale)
+| 040d |     | Peach's Castle Kitchen
+| 0401 |     | Peach's Castle, Upper Lobby (Intro)
+| 0408 |     | Peach's Castle, Peach's Room
+| 0416 |     | Peach's Castle, behind the furnace
+| 0402 |     | Peach's Castle Staircase to Hallway (Intro)
+| 0403 |     | Peach's Castle Hallway (Intro)
+| 0407 |     | Peach's Castle Hallway
+| 0409 |     | Peach's Castle, Diary Room
+| 0414 |     | Peach's Castle, Peach's Balcony
+| 0405 |     | Peach's Castle, Upper Lobby
+| 040a |     | Peach's Castle, Library
+| 040c |     | Peach's Castle, Dining Room
+| 040b |     | Peach's Castle, Storage Room
+| 0404 |     | Peach's Castle, Lower Lobby
+| 040f |     | Peach's Castle, Quiz Room (no quiz present)
+| 0418 |     | Peach's Castle, Quiz Room (with quiz show)
+| 040e |     | Peach's Castle, Guest Room
+| 0406 |     | Peach's Castle, Hallway
+| 1702 |     | Peach's Castle, outside above Bowser's Castle
+| 0410 |     | Peach's Castle, Staircase
+| 0411 |     | Peach's Castle, bridge
+| 0412 |     | Peach's Castle, final staircase
+| 0413 |     | above Peach's Castle
+| 1704 |     | Outside Peach's Castle (Castle crashing cutscene, Intro)
+| 1703 |     | Bowser & Peach's Castle in Galaxy (cutscene)
+| 0507 |     | Mario falling down to earth (Intro & Finale Cutscene)
+| 000c |     | Game Logo (Intro, after falling down)
+| 000d |     | Chapter Opening
+| 000f |     | Save-Screen after chapter
+| 0000 |     | Mario's Landing Spot near Goomba Village
+| 0001 |     | Goomba Village
+| 0002 |     | behind Goomba Village
+| 0003 |     | Jr. Troopa's Playground
+| 0004 |     | woods behind Goomba Village
+| 0007 |     | Goomba Road
+| 0005 |     | Goomba Road
+| 0006 |     | Goomba Road
+| 000a |     | Goomba Road
+| 0009 |     | Goomba King's "Fortress"
+| 0014 | MQ  | Goomba Road
+| 0008 |     | Goomba Road
+| 0013 | MQ  | abandoned house near Toad Town
+| 0011 | MQ  | outside the Ancient Tomb
+| 0012 | MQ  | Ancient Tomb
+| 0015 | MQ  | Ancient Tomb
+| 001c | MQ  | Ancient Tomb
+| 001b | MQ  | Ancient Tomb
+| 0017 | MQ  | Ancient Tomb
+| 0016 | MQ  | Ancient Tomb
+| 0018 | MQ  | Ancient Tomb
+| 0500 |     | Shooting Star Summit
+| 0506 |     | Shooting Star Summit, Donluvlee's house
+| 0509 | MQ  | Shooting Star Summit
+| 0501 |     | atop Shooting Star Summit
+| 050a | MQ  | Shooting Star Summit, outside Star Temple
+| 050b | MQ  | Star Temple
+| 050c | MQ  | Shooting Star Summit
+| 050e | MQ  | Shooting Star Summit
+| 050d | MQ  | Shooting Star Summit (Masters room)
+| 0604 |     | Pleasant Path
+| 0605 |     | Pleasant Path
+| 0606 |     | Pleasant Path
+| 0600 |     | Koopa Village
+| 0601 |     | Koopa Village
+| 0602 |     | behind Koopa Village
+| 0603 |     | behind Koopa Village
+| 0607 |     | Pleasant Path
+| 0608 |     | Pleasant Path
+| 0700 |     | Outside Koopa Bros. Fortress
+| 0701 |     | Koopa Bros. Fortress
+| 0702 |     | Koopa Bros. Fortress
+| 0703 |     | Koopa Bros. Fortress
+| 0704 |     | Koopa Bros. Fortress
+| 0706 |     | Koopa Bros. Fortress, Jail
+| 0707 |     | Koopa Bros. Fortress
+| 0708 |     | Koopa Bros. Fortress
+| 0705 |     | Koopa Bros. Fortress
+| 0709 |     | atop Koopa Bros. Fortress
+| 070a |     | Koopa Bros. Fortress
+| 000e |     | End of Chapter!!
+| 0806 |     | Train Track between Toad Town & Mt. Rugged
+| 0805 |     | Mt. Rugged, Train Station
+| 0800 |     | Mt. Rugged
+| 0801 |     | Mt. Rugged
+| 0802 |     | Mt. Rugged
+| 0804 |     | Mt. Rugged
+| 0803 |     | Mt. Rugged
+| 0a31 |     | Mt. Rugged
+| 0a00 |     | Dry Dry Desert (A1)
+| 0a07 |     | Dry Dry Desert (A2)
+| 0a0e |     | Dry Dry Desert (A3)
+| 0a15 |     | Dry Dry Desert (A4)
+| 0a1c |     | Dry Dry Desert (A5)
+| 0a23 |     | Dry Dry Desert (A6)
+| 0a2a |     | Dry Dry Desert (A7)
+| 0a01 |     | Dry Dry Desert (B1)
+| 0a08 |     | Dry Dry Desert (B2)
+| 0a0f |     | Dry Dry Desert (B3)
+| 0a16 |     | Dry Dry Desert (B4)
+| 0a1d |     | Dry Dry Desert (B5)
+| 0a24 |     | Dry Dry Desert (B6)
+| 0a2b |     | Dry Dry Desert (B7)
+| 0a02 |     | Dry Dry Desert (C1)
+| 0a09 |     | Dry Dry Desert (C2)
+| 0a10 |     | Dry Dry Desert (C3)
+| 0a17 |     | Dry Dry Desert (C4)
+| 0a1e |     | Dry Dry Desert (C5)
+| 0a25 |     | Dry Dry Desert (C6)
+| 0a2c |     | Dry Dry Desert (C7)
+| 0a03 |     | Dry Dry Desert (D1)
+| 0a0a |     | Dry Dry Desert (D2)
+| 0a11 |     | Dry Dry Desert (D3)
+| 0a18 |     | Dry Dry Desert (D4)
+| 0a1f |     | Dry Dry Desert (D5)
+| 0a26 |     | Dry Dry Desert (D6)
+| 0a2d |     | Dry Dry Desert (D7)
+| 0a04 |     | Dry Dry Desert (E1)
+| 0a0b |     | Dry Dry Desert (E2)
+| 0a12 |     | Dry Dry Desert (E3)
+| 0a19 |     | Dry Dry Desert (E4)
+| 0a20 |     | Dry Dry Desert (E5)
+| 0a27 |     | Dry Dry Desert (E6)
+| 0a2e |     | Dry Dry Desert (E7)
+| 0a05 |     | Dry Dry Desert (F1)
+| 0a0c |     | Dry Dry Desert (F2)
+| 0a13 |     | Dry Dry Desert (F3)
+| 0a1a |     | Dry Dry Desert (F4)
+| 0a21 |     | Dry Dry Desert (F5)
+| 0a28 |     | Dry Dry Desert (E7)
+| 0a2f |     | Dry Dry Desert (E7)
+| 0a06 |     | Dry Dry Desert (G1)
+| 0a0d |     | Dry Dry Desert (G2)
+| 0a14 |     | Dry Dry Desert (G3)
+| 0a1b |     | Dry Dry Desert (G4)
+| 0a22 |     | Dry Dry Desert (G5)
+| 0a29 |     | Dry Dry Desert, Oasis (G6)
+| 0a30 |     | Dry Dry Desert (G7)
+| 0e0c | MQ  | Between Dry Dry Desert & Gusty Gulch
+| 0e0b | MQ  | Between Dry Dry Desert & Gusty Gulch
+| 0900 |     | Dry Dry Outpost
+| 0901 |     | Dry Dry Outpost
+| 0b00 |     | Dry Dry Ruins
+| 0b01 |     | Dry Dry Ruins
+| 0b02 |     | Dry Dry Ruins
+| 0b03 |     | Dry Dry Ruins
+| 0b05 |     | Dry Dry Ruins
+| 0b04 |     | Dry Dry Ruins
+| 0b06 |     | Dry Dry Ruins
+| 0b07 |     | Dry Dry Ruins
+| 0b08 |     | Dry Dry Ruins
+| 0b0a |     | Dry Dry Ruins
+| 0b0b |     | Dry Dry Ruins
+| 0b09 |     | Dry Dry Ruins
+| 0b0d |     | Dry Dry Ruins
+| 0b0f |     | Dry Dry Ruins
+| 0b0c |     | Dry Dry Ruins
+| 0b10 |     | Dry Dry Ruins
+| 0b0e |     | Dry Dry Ruins
+| 0c09 |     | entrance of Forever Forest
+| 0c00 |     | Forever Forest
+| 0c01 |     | Forever Forest
+| 0c02 |     | Forever Forest
+| 0c03 |     | Forever Forest
+| 0c04 |     | Forever Forest
+| 0c07 |     | Forever Forest
+| 0c05 |     | Forever Forest
+| 0c06 |     | Forever Forest
+| 0c08 |     | Forever Forest
+| 0c0a |     | outside Boo's Mansion
+| 0d00 |     | Boo's Mansion
+| 0d07 |     | Boo's Mansion
+| 0d06 |     | Boo's Mansion
+| 0d01 |     | Boo's Mansion
+| 0d02 |     | Boo's Mansion
+| 0d03 |     | Boo's Mansion
+| 0d04 |     | Boo's Mansion
+| 0d05 |     | Boo's Mansion
+| 0d08 |     | Boo's Mansion
+| 0c0b |     | Gusty Gulch
+| 0e04 |     | Gusty Gulch, outside Windmill
+| 0e01 |     | Gusty Gulch Settlement
+| 0e03 |     | Gusty Gulch Settlement
+| 0e00 |     | Gusty Gulch
+| 0e02 |     | Gusty Gulch
+| 0f00 |     | outside Tubba Blubba's Castle
+| 0f01 |     | Tubba Blubba's Castle
+| 0f02 |     | Tubba Blubba's Castle
+| 0f0b |     | Tubba Blubba's Castle
+| 0f07 |     | Tubba Blubba's Castle
+| 0f03 |     | Tubba Blubba's Castle
+| 0f05 |     | Tubba Blubba's Castle
+| 0f06 |     | Tubba Blubba's Castle
+| 0f04 |     | Tubba Blubba's Castle
+| 0f08 |     | Tubba Blubba's Castle
+| 0f09 |     | Tubba Blubba's Castle
+| 0f0a |     | Tubba Blubba's Castle
+| 0f0c |     | Tubba Blubba's Castle
+| 0f0d |     | Tubba Blubba's Castle
+| 0f0e |     | Tubba Blubba's Castle
+| 0f0f |     | Tubba Blubba's Castle
+| 0f10 |     | Tubba Blubba's Castle
+| 0f11 |     | Tubba Blubba's Castle
+| 0e05 |     | Gusty Gulch Windmill
+| 0e06 |     | Gusty Gulch Windmill
+| 0e07 |     | Gusty Gulch Windmill
+| 0e09 |     | Gusty Gulch Windmill
+| 0e0a |     | Gusty Gulch Windmill
+| 0e08 |     | Gusty Gulch Windmill
+| 1002 |     | Shy Guy's Toybox, Blue Station
+| 100c |     | Shy Guy's Toybox, Blue Station
+| 1011 | MQ  | Shy Guy's Toybox, Blue Station
+| 1000 |     | Shy Guy's Toybox, Blue Station
+| 1003 |     | Shy Guy's Toybox, Blue Station
+| 100f |     | Shy Guy's Toybox, Train Tracks
+| 1005 |     | Shy Guy's Toybox, Pink Station
+| 1006 |     | Shy Guy's Toybox, Pink Station
+| 1010 |     | Shy Guy's Toybox, Pink Station
+| 1004 |     | Shy Guy's Toybox, Pink Station
+| 1007 |     | Shy Guy's Toybox, Green Station
+| 1008 |     | Shy Guy's Toybox, Green Station
+| 1009 |     | Shy Guy's Toybox, Red Station
+| 100a |     | Shy Guy's Toybox, Red Station
+| 100b |     | Shy Guy's Toybox, Red Station
+| 1001 |     | Shy Guy's Toybox, Red Station
+| 100d |     | Shy Guy's Toybox, Red Station
+| 100e |     | Shy Guy's Toybox, Red Station
+| 0300 |     | inside a ...whale?
+| 0301 |     | inside a ...whale?
+| 0107 |     | on the sea between Toad Town & Lavalava Island
+| 1100 |     | Lavalava Island, Beach
+| 1101 |     | Lavalava Island, Beach
+| 1102 |     | Yoshi's Village
+| 1103 |     | Yoshi's Village
+| 1114 |     | Lavalava Island, outside Mt. Lavalava
+| 1105 |     | Jade Jungle
+| 1104 |     | Jade Jungle
+| 1108 |     | Jade Jungle
+| 1109 |     | Jade Jungle
+| 110b |     | Jade Jungle
+| 110a |     | Jade Jungle
+| 1106 |     | Jade Jungle
+| 1107 |     | Jade Jungle
+| 110c |     | Jade Jungle
+| 110d |     | Jade Jungle
+| 110e |     | Jade Jungle
+| 110f |     | Jade Jungle
+| 1110 |     | Jade Jungle
+| 1111 |     | inside a big tree in Jade Jungle
+| 1112 |     | inside a big tree in Jade Jungle
+| 1113 |     | inside a big tree in Jade Jungle
+| 1115 |     | atop a big tree in Jade Jungle
+| 1200 |     | Mt. Lavalava
+| 1201 |     | Mt. Lavalava
+| 1202 |     | Mt. Lavalava
+| 1203 |     | Mt. Lavalava
+| 1204 |     | Mt. Lavalava
+| 1205 |     | Mt. Lavalava
+| 1206 |     | Mt. Lavalava
+| 1207 |     | Mt. Lavalava
+| 1208 |     | Mt. Lavalava
+| 1209 |     | Mt. Lavalava
+| 120a |     | Mt. Lavalava
+| 120b |     | Mt. Lavalava
+| 120c |     | Mt. Lavalava
+| 120d |     | Mt. Lavalava
+| 120e |     | Mt. Lavalava, escape-sequence
+| 120f |     | Mt. Lavalava, escape-sequence
+| 1210 |     | Mt. Lavalava, escape-sequence
+| 1300 |     | Flower Fields, Central Area
+| 1304 |     | Flower Fields, East Path
+| 1301 |     | Flower Fields, East Path
+| 1310 |     | Flower Fields, East Path
+| 1313 |     | Flower Fields, Southwest Path
+| 1302 |     | Flower Fields, Southwest Path
+| 1303 |     | Flower Fields, Southeast Path
+| 1312 |     | Flower Fields, Southeast Path
+| 1305 |     | Flower Fields, Southeast Path
+| 1311 |     | Flower Fields, West Path
+| 1306 |     | Flower Fields, West Path
+| 1307 |     | Flower Fields, West Path
+| 1309 |     | Flower Fields, Northwest Path
+| 1308 |     | Flower Fields, Northwest Path
+| 130a |     | Flower Fields, Northwest Path
+| 130b |     | Flower Fields, Northeast Path
+| 130c |     | Flower Fields, Northeast Path
+| 130d |     | Flower Fields, Northeast Path
+| 130e |     | Cloudy Climb
+| 130f |     | Cloudy Climb
+| 1401 |     | Shiver City
+| 1400 |     | Shiver City
+| 140a |     | Shiver City
+| 1402 |     | Shiver Snowfield
+| 140e | MQ  | between Shiver Snowfield & Shooting Star Summit
+| 140d | MQ  | between Shiver Snowfield & Shooting Star Summit
+| 140c | MQ  | Shiver Snowfield
+| 1403 |     | Shiver Snowfield
+| 1404 |     | Shiver Snowfield
+| 1405 |     | Starborn Valley
+| 1406 |     | Shiver Mountain
+| 1407 |     | Shiver Mountain
+| 1408 |     | Shiver Mountain
+| 1409 |     | Shiver Mountain
+| 140b |     | Shiver Mountain
+| 1500 |     | Crystal Palace
+| 1501 |     | Crystal Palace
+| 1502 |     | Crystal Palace
+| 151d |     | Crystal Palace
+| 1504 |     | Crystal Palace
+| 150a |     | Crystal Palace
+| 150b |     | Crystal Palace
+| 150c |     | Crystal Palace
+| 1503 |     | Crystal Palace
+| 151e |     | Crystal Palace
+| 1505 |     | Crystal Palace
+| 1507 |     | Crystal Palace
+| 1509 |     | Crystal Palace
+| 1506 |     | Crystal Palace
+| 1508 |     | Crystal Palace
+| 150d |     | Crystal Palace
+| 150e |     | Crystal Palace
+| 1518 |     | Crystal Palace
+| 151a |     | Crystal Palace
+| 150f |     | Crystal Palace
+| 1510 |     | Crystal Palace
+| 1511 |     | Crystal Palace
+| 1515 |     | Crystal Palace
+| 1519 |     | Crystal Palace
+| 1512 |     | Crystal Palace
+| 151c |     | Crystal Palace
+| 1514 |     | Crystal Palace
+| 151b |     | Crystal Palace
+| 1513 |     | Crystal Palace
+| 1516 |     | Crystal Palace
+| 151f |     | Crystal Palace
+| 1517 |     | Crystal Palace
+| 0502 |     | Star Way
+| 0503 |     | Star Haven
+| 0504 |     | Star Haven
+| 0505 |     | Star Haven
+| 0508 |     | Star Haven (travelling with vehicle cutscene)
+| 1615 |     | Star haven (entering Bowser's Castle cutscene)
+| 1618 |     | Bowser's Castle F1
+| 1617 |     | Bowser's Castle F1
+| 1606 |     | Bowser's Castle Basement
+| 1619 |     | Bowser's Castle F1
+| 1611 |     | Bowser's Castle F1
+| 161a |     | Bowser's Castle F1
+| 160c |     | Bowser's Castle Basement
+| 1607 |     | Bowser's Castle Basement
+| 1608 |     | Bowser's Castle Basement
+| 160a |     | Bowser's Castle Basement
+| 1609 |     | Bowser's Castle Basement
+| 160b |     | Bowser's Castle Basement
+| 1605 |     | Bowser's Castle Basement
+| 1600 |     | Bowser's Castle Basement, dark room
+| 1601 |     | Bowser's Castle Basement, dark room
+| 1602 |     | Bowser's Castle F1
+| 160d |     | Bowser's Castle F1
+| 161d |     | Bowser's Castle F1
+| 161e |     | Bowser's Castle F1, Toad Jail
+| 1621 |     | Bowser's Castle, Storehouse
+| 1612 |     | Bowser's Castle F2
+| 1630 |     | Bowser's Castle F2
+| 1631 |     | Bowser's Castle F2
+| 162f |     | Bowser's Castle F2
+| 1625 |     | Bowser's Castle F2
+| 1626 |     | Bowser's Castle F2
+| 1627 |     | Bowser's Castle F2
+| 1628 |     | Bowser's Castle F2
+| 1629 |     | Bowser's Castle F2
+| 162a |     | Bowser's Castle F2
+| 162b |     | Bowser's Castle F2
+| 162c |     | Bowser's Castle F2
+| 162d |     | Bowser's Castle F2
+| 161b |     | Bowser's Castle F2
+| 1616 |     | Bowser's Castle F2
+| 160e |     | Bowser's Castle F2
+| 161f |     | Bowser's Castle F2
+| 1620 |     | Bowser's Castle F2, Toad Jail
+| 1604 |     | Bowser's Castle F3
+| 1623 |     | Bowser's Castle F3
+| 1613 |     | Bowser's Castle F3
+| 1603 |     | Bowser's Castle F3
+| 1622 |     | Bowser's Castle F3
+| 160f |     | Bowser's Castle F3
+| 1610 |     | Bowser's Castle F3
+| 1624 |     | Bowser's Castle F3
+| 1614 |     | Bowser's Castle F3
+| 161c |     | Bowser's Castle F3
+| 162e |     | Bowser's Castle F3
+| 1800 |     | Credits
+| 1801 |     | Credits
+| 0010 |     | Credits, watching the fireworks
+| 002c | MQ  | Ancient Dungeon
+| 001a | MQ  | Ancient Dungeon
+| 001d | MQ  | Ancient Dungeon
+| 0022 | MQ  | Ancient Dungeon
+| 001f | MQ  | Ancient Dungeon
+| 0021 | MQ  | Ancient Dungeon
+| 001e | MQ  | Ancient Dungeon
+| 0028 | MQ  | Ancient Dungeon
+| 0023 | MQ  | Ancient Dungeon
+| 0024 | MQ  | Ancient Dungeon
+| 0026 | MQ  | Ancient Dungeon
+| 0025 | MQ  | Ancient Dungeon
+| 0027 | MQ  | Ancient Dungeon
+| 002a | MQ  | Ancient Dungeon
+| 002b | MQ  | Ancient Dungeon
+| 0029 | MQ  | Ancient Dungeon
+| 002d | MQ  | Ancient Dungeon
+| 0020 | MQ  | Ancient Dungeon
+| 002f | MQ  | Ancient Dungeon
+| 0031 | MQ  | Ancient Dungeon
+| 002e | MQ  | Ancient Dungeon
+| 0030 | MQ  | Ancient Dungeon
+| 0032 | MQ  | Ancient Dungeon
+| 0033 | MQ  | Ancient Dungeon
+| 0034 | MQ  | Ancient Dungeon
+| 1c00 | MQ  | Pit of 100 Trials F1-9
+| 1c0a | MQ  | Pit of 100 Trials, Rest Room
+| 1c01 | MQ  | Pit of 100 Trials F11-19
+| 1c02 | MQ  | Pit of 100 Trials F21-29
+| 1c03 | MQ  | Pit of 100 Trials F31-39
+| 1c04 | MQ  | Pit of 100 Trials F41-49
+| 1c05 | MQ  | Pit of 100 Trials F51-59
+| 1c06 | MQ  | Pit of 100 Trials F61-69
+| 1c07 | MQ  | Pit of 100 Trials F71-79
+| 1c08 | MQ  | Pit of 100 Trials F81-89
+| 1c09 | MQ  | Pit of 100 Trials F91-99
+| 0035 | MQ  | Bottom of the Pit of 100 Trials
++------+-----+------------ - -  -  -   -    -

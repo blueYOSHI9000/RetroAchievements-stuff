@@ -48,7 +48,7 @@ Lookup:Room
 0x2c=The Cave
 0x2d=The Cave (used in the part with the boo)
 0x2e=Snowglobe
-0x2f=Snowglobe (below the Snowglobe)
+0x2f=Snowglobe (below the Snowglobe, reached by using the slide)
 0x30=Ice Castle
 
 0x31=Hallway (F3 before Trophy Room)
@@ -76,7 +76,7 @@ Lookup:Room
 0x46=Meat Locker
 0x47=Engine Room
 0x48=T!rt!re €chambeR
-0x49=Elevator (PROBABLY - not tested yet)
+0x49=Elevator
 0x4a=The Lab
 
 0x4b=Outside (Mind, before Art Gallery)

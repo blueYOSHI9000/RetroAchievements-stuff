@@ -12,6 +12,9 @@ Anything outside `Archive` folders is almost definitely done by me though (there
 Anything in an `Archive` folder is a default **no** as I likely didn't make that (as explained above), though when using it for RA anyway it's probably fine as all of it was made for RA in the first place.  
 Anything *outside* an `Archive`	folder is free to use, no permission or credit needed (though credit appreciated when just re-uploading them as a whole).
 
+#### Can I use this to train AI or use it for an NFT?
+Absolutely not, go fuck yourself.
+
 ### Hack Sorting
 Hacks are displayed with a `N64 - SM64` for an SM64 hack. Anything that has a second prefix after the console is a hack.
 

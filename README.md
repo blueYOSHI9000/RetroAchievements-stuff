@@ -6,11 +6,11 @@ A dumping ground for anything RetroAchievements that's either created or archive
 ### Credit
 **NOT EVERYTHING HERE IS DONE BY ME!** The `Archive` folders include both my stuff but mainly also stuff from others that I replaced and then archived. I did not check who made anything since it's usually near impossible to really find out (mostly because the older Audit Log system is a bit barebones and some stuff is uploaded by other people instead of the one who made it).  
 When in doubt, feel free to contact me and I'll at least be able to tell you if I made it (and if you don't have Audit Log access I can also check that).  
-Anything outside `Archive` folders is almost definitely done by me though (there is a small exception for sprites that I ripped from the game).
+Anything outside `Archive` folders that isn't directly credited to someone is almost definitely done by me though (there is a small exception for sprites that I ripped from the game).
 
 ### License / Can I use this?
 Anything in an `Archive` folder is a default **no** as I likely didn't make that (as explained above), though when using it for RA anyway it's probably fine as all of it was made for RA in the first place.  
-Anything *outside* an `Archive`	folder is free to use, no permission or credit needed (though credit appreciated when just re-uploading them as a whole).
+Anything *outside* an `Archive`	folder that isn't credited to someone else is free to use, no permission or credit needed (though credit appreciated when just re-uploading them as a whole).
 
 #### Can I use this to train AI or use it for an NFT?
 Absolutely not, go fuck yourself.

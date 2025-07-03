@@ -1,0 +1,239 @@
+=== JSON ===
+The original json file (after the code note changes, sorry about that) is also preserved in the same directory as this file.
+
+=== Code Notes ===
+All original Code Notes were preserved with the following exceptions:
+- a [v1.0] was added to them
+- Memory Address Sizes were either added or rewritten to follow my new standard of [8-Bit] at the start of the note
+- Minor grammar changes (should only have been a single change I think)
+- Total Deaths & Frame Timer Code Notes were added to v1.0, all others were discovered by poyopoyo
+	(the former was also discovered by them but not submitted as a code note)
+
+=== Achievements ===
+Note: Some cheevos were also rewritten to be easier to read/more efficient, it's not just a v1.2 update.
+
+= 113722 =
+Name: It Only Gets Harder From Here
+Desc: Collect your first strawberry
+Code: 0x 001944!=775S0xM0019c1=1S0xM0019c3=1S0xM0019c4=1S0xM0019c5=1S0xM0019c7=1S0xM0019c9=1S0xM0019cc=1S0xM0019cd=1S0xM0019ce=1S0xM0019cf=1S0xM0019d1=1S0xM0019d3=1S0xM0019d7=1S0xM0019d9=1S0xM0019da=1S0xM0019dc=1S0xM0019dd=1S0xM0019de=1
+
+= 113723 =
+Name: Just A Few More...
+Desc: Collect 9 strawberries. Just 9 more to go!
+Code: 0x 001944!=775_A:0xM0019c1_A:0xM0019c3_A:0xM0019c4_A:0xM0019c5_A:0xM0019c7_A:0xM0019c9_A:0xM0019cc_A:0xM0019cd_A:0xM0019ce_A:0xM0019cf_A:0xM0019d1_A:0xM0019d3_A:0xM0019d7_A:0xM0019d9_A:0xM0019da_A:0xM0019dc_A:0xM0019dd_M:0xM0019de=9
+
+= 113724 =
+Name: Gotta Collect 'Em All
+Desc: Collect all 18 strawberries and reach the peak of Celeste Mountain. Well done!
+Code: 0x 001944=774_d0x 001944=773_A:0xM0019c1_A:0xM0019c3_A:0xM0019c4_A:0xM0019c5_A:0xM0019c7_A:0xM0019c9_A:0xM0019cc_A:0xM0019cd_A:0xM0019ce_A:0xM0019cf_A:0xM0019d1_A:0xM0019d3_A:0xM0019d7_A:0xM0019d9_A:0xM0019da_A:0xM0019dc_A:0xM0019dd_M:0xM0019de=18
+
+= 113725 =
+Name: A Nice Little Surprise
+Desc: Receive a special power-up at the 2200m mark
+Code: 0x 001944=517_0xH00191c=2_d0xH00191c<=1
+
+= 113726 =
+Name: Phew, Finally!
+Desc: Reach the summit of Celeste Mountain. Congratulations!
+Code: 0x 001944=774_0x 00194a>16972_0x 00194e<17006
+
+= 113727 =
+Name: No Time To Stop And Smell The Flowers!
+Desc: Beat 100m in 5 seconds or less
+Code: d0x 001944=0_T:0x 001944=1_N:0x 001944=0_P:0xH001940!=d0xH001940.6.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113728 =
+Name: The True Climb Begins
+Desc: Beat 200m in 6 seconds or less
+Code: d0x 001944=1_T:0x 001944=2_N:0x 001944=1_P:0xH001940!=d0xH001940.7.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113729 =
+Name: The First Of Many Distractions
+Desc: Beat 300m in 6 seconds or less
+Code: d0x 001944=2_T:0x 001944=3_N:0x 001944=2_P:0xH001940!=d0xH001940.7.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113730 =
+Name: Stairway To Heaven
+Desc: Beat 400m in 5 seconds or less
+Code: d0x 001944=3_T:0x 001944=4_N:0x 001944=3_P:0xH001940!=d0xH001940.6.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113731 =
+Name: Between A Spike And A Hard Place
+Desc: Beat 500m in 6 seconds or less
+Code: d0x 001944=4_T:0x 001944=5_N:0x 001944=4_P:0xH001940!=d0xH001940.7.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113732 =
+Name: The Lonely Red Balloon
+Desc: Beat 600m in 3 seconds or less
+Code: d0x 001944=5_T:0x 001944=6_N:0x 001944=5_P:0xH001940!=d0xH001940.4.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113733 =
+Name: Soaring Through The Clouds
+Desc: Beat 700m in 5 seconds or less
+Code: d0x 001944=6_T:0x 001944=7_N:0x 001944=6_P:0xH001940!=d0xH001940.6.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113734 =
+Name: Thanks For The Boost!
+Desc: Beat 800m in 4 seconds or less
+Code: d0x 001944=7_T:0x 001944=256_N:0x 001944=7_P:0xH001940!=d0xH001940.5.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113735 =
+Name: The Double Boost
+Desc: Beat 900m in 5 seconds or less
+Code: d0x 001944=256_T:0x 001944=257_N:0x 001944=256_P:0xH001940!=d0xH001940.6.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113736 =
+Name: Only Another 2000 Meters To Go!
+Desc: Beat 1000m in 7 seconds or less
+Code: d0x 001944=257_T:0x 001944=258_N:0x 001944=257_P:0xH001940!=d0xH001940.8.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113737 =
+Name: What Spikes? I Didn't See Any
+Desc: Beat 1100m in 4 seconds or less
+Code: d0x 001944=258_T:0x 001944=259_N:0x 001944=258_P:0xH001940!=d0xH001940.5.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113738 =
+Name: No Respect For The Fallen
+Desc: Beat 1200m (Old Site) in 4 seconds or less
+Code: d0x 001944=259_T:0x 001944=260_N:0x 001944=259_P:0xH001940!=d0xH001940.5.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113739 =
+Name: What Treasure?
+Desc: Beat 1300m in 5 seconds or less
+Code: d0x 001944=260_T:0x 001944=261_N:0x 001944=260_P:0xH001940!=d0xH001940.6.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113740 =
+Name: Almost Halfway There
+Desc: Beat 1400m in 5 seconds or less
+Code: d0x 001944=261_T:0x 001944=262_N:0x 001944=261_P:0xH001940!=d0xH001940.6.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113741 =
+Name: A Bit Over Halfway Done!
+Desc: Beat 1500m in 5 seconds or less
+Code: d0x 001944=262_T:0x 001944=263_N:0x 001944=262_P:0xH001940!=d0xH001940.6.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113742 =
+Name: Hopefully You Can Walljump...
+Desc: Beat 1600m in 8 seconds or less
+Code: d0x 001944=263_T:0x 001944=512_N:0x 001944=263_P:0xH001940!=d0xH001940.9.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113743 =
+Name: Watch Your Head!
+Desc: Beat 1700m in 5 seconds or less
+Code: d0x 001944=512_T:0x 001944=513_N:0x 001944=512_P:0xH001940!=d0xH001940.6.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113744 =
+Name: 99 Red Balloons
+Desc: Beat 1800m in 8 seconds or less
+Code: d0x 001944=513_T:0x 001944=514_N:0x 001944=513_P:0xH001940!=d0xH001940.9.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113745 =
+Name: I Heard You Like Spikes
+Desc: Beat 1900m in 8 seconds or less
+Code: d0x 001944=514_T:0x 001944=515_N:0x 001944=514_P:0xH001940!=d0xH001940.9.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113746 =
+Name: Who Needs To Touch The Ground? Not Me!
+Desc: Beat 2000m in 7 seconds or less
+Code: d0x 001944=515_T:0x 001944=516_N:0x 001944=515_P:0xH001940!=d0xH001940.8.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113747 =
+Name: Allergic To Balloons
+Desc: Beat 2100m in 3 seconds or less
+Code: d0x 001944=516_T:0x 001944=517_N:0x 001944=516_P:0xH001940!=d0xH001940.4.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113748 =
+Name: What Chest?
+Desc: Beat 2200m in 6 seconds or less
+Code: d0x 001944=517_T:0x 001944=518_N:0x 001944=517_P:0xH001940!=d0xH001940.7.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113749 =
+Name: Double-Jumping On By
+Desc: Beat 2300m in 4 seconds or less
+Code: d0x 001944=518_T:0x 001944=519_N:0x 001944=518_P:0xH001940!=d0xH001940.5.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113750 =
+Name: Getting Closer...
+Desc: Beat 2400m in 5 seconds or less
+Code: d0x 001944=519_T:0x 001944=768_N:0x 001944=519_P:0xH001940!=d0xH001940.6.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113751 =
+Name: Spikes....Everywhere!
+Desc: Beat 2500m in 7 seconds or less
+Code: d0x 001944=768_T:0x 001944=769_N:0x 001944=768_P:0xH001940!=d0xH001940.8.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113752 =
+Name: Careful Now...
+Desc: Beat 2600m in 7 seconds or less
+Code: d0x 001944=769_T:0x 001944=770_N:0x 001944=769_P:0xH001940!=d0xH001940.8.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113753 =
+Name: Wait...You Can Do That!?
+Desc: Beat 2700m in 6 seconds or less
+Code: d0x 001944=770_T:0x 001944=771_N:0x 001944=770_P:0xH001940!=d0xH001940.7.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113754 =
+Name: Just A Few Spikes Here And There
+Desc: Beat 2800m in 9 seconds or less
+Code: d0x 001944=771_T:0x 001944=772_N:0x 001944=771_P:0xH001940!=d0xH001940.10.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113755 =
+Name: Was That Not Enough?
+Desc: Beat 2900m in 6 seconds or less
+Code: d0x 001944=772_T:0x 001944=773_N:0x 001944=772_P:0xH001940!=d0xH001940.7.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113756 =
+Name: Sorry, Did You Say You Wanted More?
+Desc: Beat 3000m in 5 seconds or less
+Code: d0x 001944=773_T:0x 001944=774_N:0x 001944=773_P:0xH001940!=d0xH001940.6.SR:0x 001988>d0x 001988_R:0x 001944=775
+
+= 113757 =
+Name: Speedrunner Queen
+Desc: Reach the summit of Celeste Mountain in under 5 minutes. Do that twice as fast and you'll start to approach world record times!
+Code: T:0x 001944=774_T:d0x 001944=773_0xH001941<5
+
+= 113758 =
+Name: Almost Cool
+Desc: Reach the summit of Celeste Mountain with less than 100 deaths. Well, it's a start at least, right?
+Code: T:0x 001944=774_T:d0x 001944=773_0x 001988<100
+
+= 113759 =
+Name: Deep Breaths, Madeline...You Got This!
+Desc: Reach the summit of Celeste Mountain without dying. Congratulations, you've truly conquered that mountain!
+Code: 0x 001944=0.1._T:0x 001944=774_T:d0x 001944=773_R:0x 001988!=0
+
+
+=== Leaderboards ===
+
+= 8352 =
+Name: Any% Speedrun
+Desc: Complete the game as fast as you can!
+Format: MILLISECS | LowerIsBetter: 1
+Code: STA:0x1944=h000::CAN:0x1944=h307::SUB:0x1944=h306::VAL:0xH1940*100_0xH1941*6000
+
+= 8353 =
+Name: 100% Speedrun
+Desc: Complete the game as fast as you can with all 18 strawberries!
+Format: MILLISECS | LowerIsBetter: 1
+Code: STA:0x1944=h305_A:0xM0019c1=0xH000000_A:0xM0019c3=0xH000000_A:0xM0019c4=0xH000000_A:0xM0019c5=0xH000000_A:0xM0019c7=0xH000000_A:0xM0019c9=0xH000000_A:0xM0019cc=0xH000000_A:0xM0019cd=0xH000000_A:0xM0019ce=0xH000000_A:0xM0019cf=0xH000000_A:0xM0019d1=0xH000000_A:0xM0019d3=0xH000000_A:0xM0019d7=0xH000000_A:0xM0019d9=0xH000000_A:0xM0019da=0xH000000_A:0xM0019dc=0xH000000_A:0xM0019dd=0xH000000_0xM0019de=18::CAN:0x1944=h307::SUB:0x1944=h306::VAL:0xH1940*100_0xH1941*6000
+
+= 31654 =
+Name: Lotm-03-2022 - 100% Speedrun
+Desc: Complete the game as fast as you can with all 18 strawberries!
+Format: MILLISECS | LowerIsBetter: 1
+Code: STA:0=1_0x1944=h305_A:0xM0019c1=0xH000000_A:0xM0019c3=0xH000000_A:0xM0019c4=0xH000000_A:0xM0019c5=0xH000000_A:0xM0019c7=0xH000000_A:0xM0019c9=0xH000000_A:0xM0019cc=0xH000000_A:0xM0019cd=0xH000000_A:0xM0019ce=0xH000000_A:0xM0019cf=0xH000000_A:0xM0019d1=0xH000000_A:0xM0019d3=0xH000000_A:0xM0019d7=0xH000000_A:0xM0019d9=0xH000000_A:0xM0019da=0xH000000_A:0xM0019dc=0xH000000_A:0xM0019dd=0xH000000_0xM0019de=18::CAN:0x1944=h307::SUB:0x1944=h306::VAL:0xH1940*100_0xH1941*6000
+
+
+=== Rich Presence ===
+Lookup:GoingUp
+0x306=on the summit of
+*=ascending
+
+Format:Digit
+FormatType=VALUE
+
+Display:
+?0x1944=h307?Title screen
+Madeline is @GoingUp(0x1944) Celeste mountain. @Digit(0xh1945*8_0xh1944_v1)00m, @Digit(0xh1941) minutes, @Digit(0xh1940) seconds elapsed. @Digit(0xm19c1_0xm19c3_0xm19c4_0xm19c5_0xm19c7_0xm19c9_0xm19cc_0xm19cd_0xm19ce_0xm19cf_0xm19d1_0xm19d3_0xm19d7_0xm19d9_0xm19da_0xm19dc_0xm19dd_0xm19de) strawberries collected, @Digit(0x1988) deaths
+
+RP by JAM, v1.0

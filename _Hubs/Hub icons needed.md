@@ -58,8 +58,7 @@ Unlicensed - Mega Man: https://retroachievements.org/hub/29512
 
 Difficulty - Metroid: https://retroachievements.org/hub/4209  
 Several in Metroid: https://retroachievements.org/hub/8058  
-
-Difficulty - Sonic: https://retroachievements.org/hub/4252  
+ 
 Fangames - Sonic: https://retroachievements.org/hub/25641  
 
 Final Fantasy: https://retroachievements.org/hub/9422  

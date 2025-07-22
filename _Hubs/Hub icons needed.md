@@ -2,7 +2,6 @@
 Central - Community Events: https://retroachievements.org/hub/4  
 Central - Credits: https://retroachievements.org/hub/1430  
 Central - Custom Awards: https://retroachievements.org/hub/20316  
-Central - Difficulty: https://retroachievements.org/hub/4195  
 Central - Feature: https://retroachievements.org/hub/5928  
 Central - Format: https://retroachievements.org/hub/5825  
 Central - Game Mechanic: https://retroachievements.org/hub/5929  

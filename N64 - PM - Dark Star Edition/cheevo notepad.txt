@@ -1,0 +1,567 @@
+
+=== Playthroughs ===
+	Core:
+		- Default
+		- Both Challenge Stones
+
+	Subset:
+		- x3 Password
+
+=== Prologue ===
+
+[ 1] [m] Talk to Luigi & Black Yoshi
+	   <>
+		Talk to both Luigi & the black Yoshi at Peach's Castle. All boss challenge cheevos are possible with one challenge enabled, post-game may not. See comments for more info.
+
+[ 1] Get some, uhhh... cake. Yeah, cake.
+	   <>
+		desc
+
+[ 2] Defeat Jr. Troopa
+	   <>
+[ 1]Ch:<Early Menace> <Block Right!>
+	Pw:<>
+		Defeat the rude Jr. Troopa on Jr. Troopa's Playground.
+
+[ 5] Defeat Goomboss
+	   <>
+[ 2]Ch:<>
+	Pw:<>
+		desc
+
+[ 5] Defeat Goomboss Challenge
+	   <>
+		desc
+
+[ 5] Tattle: Prologue
+	   <>
+		desc
+
+[ 5] Collectables: Prologue
+	   <>
+		desc
+
+=== Chapter 1 ===
+
+[10] Defeat Koopa Bros.
+	   <>
+[10]Ch:<>
+	Pw:<>
+		desc
+
+[10] Defeat Koopa Bros. Challenge
+	   <>
+		desc
+
+[ 5] Defeat Jr. Troopa
+	   <>
+[ 2]Ch:<>
+	Pw:<>
+		Jr. Troopa is back! Beat him once again, on Pleasant Path this time.
+
+[ 5] Tattle: Chapter 1
+	   <>
+		desc
+
+[ 5] Collectables: Chapter 1
+	   <>
+		desc
+
+=== Chapter 2 ===
+
+[ 1] Defeat Blooper
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[ 5] Get Final Whacka Bump (sorting not final)
+	   <>
+		desc
+
+[ 5] Defeat Buzzar
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[ 3] Defeat Elite Bandit
+	   <>
+		desc
+
+[ 1] Spell Cheevo
+	   <>
+		desc
+
+[10] Defeat Tutankoopa
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[  ] Defeat Tutankoopa Challenge
+	   <Curse of RA>
+		desc
+
+[ 5] Tattle: Chapter 2
+	   <>
+		desc
+
+[ 5] Collectables: Chapter 2
+	   <>
+		desc
+
+=== Chapter 3 ===
+
+[ 5] Defeat Jr. Troopa
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[10] Defeat Tubba Blubba
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[25] Defeat Tubba Blubba Challenge
+	   <>
+		desc
+
+[ 5] Tattle: Chapter 3
+	   <>
+		desc
+
+[ 5] Collectables: Chapter 3
+	   <>
+		desc
+
+=== Chapter 4 ===
+
+[ 3] Defeat Electro Blooper
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[ 5] [m] Choose mushroom
+	 <    >
+		During the Peach Intermission after Chapter 3, pick the mushroom when Bowser asks what Mario fears. Then, collect said mushroom in Shy Guy's Toybox.
+
+[10] Defeat Anti-Guy
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[ 5] Third chosen enemy
+	 <    >
+		Defeat the guardian of the third chest visited by Kammy Koopa in Shy Guy's Toybox.
+
+[ 5] Defeat Big Lantern Ghost
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[10] Defeat General Guy
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[10] Defeat General Guy Challenge
+	   <>
+		desc
+
+[ 5] Tattle: Chapter 4
+	   <>
+		desc
+
+[ 5] Collectables: Chapter 4
+	   <>
+		desc
+
+=== Chapter 5 ===
+
+[ 5] Defeat Robotoad
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[ 5] Defeat Fuzzipede
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[ 5] Defeat Jr. Troopa
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[10] Defeat Lava Piranha
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[  ] Defeat Lava Piranha Challenge
+	   <>
+		desc
+
+[ 5] Tattle: Chapter 5
+	   <>
+		desc
+
+[ 5] Collectables: Chapter 5
+	   <>
+		desc
+
+=== Chapter 6 ===
+
+[10] Defeat Kent C. Koopa
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[ 5] Defeat Lakilester/Spike
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[ 2] Get Posie's Badge
+	   <>
+		desc
+
+[10] Defeat Huff N Puff
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[  ] Defeat Huff N Puff Challenge
+	   <>
+		desc
+
+[ 5] Tattle: Chapter 6
+	   <>
+		desc
+
+[ 5] Collectables: Chapter 6
+	   <>
+		desc
+
+=== Chapter 7 ===
+
+[ 5] Defeat Super Blooper
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[ 5] Defeat Forever Forest Tubba Blubba
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[ 5] Defeat Small Blooper
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[25] [m] Defeat Permafrost Guy early
+	   <>
+		desc
+
+[ 5] Defeat Jr. Troopa
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[ 5] Defeat Monstar
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[ 1] Finish Letter Trading Quest
+	   <>
+		desc
+
+[10] Defeat Crystal King
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[10] Defeat Crystal King Challenge
+	   <>
+		desc
+
+[ 5] Tattle: Chapter 7
+	   <>
+		desc
+
+[ 5] Collectables: Chapter 7
+	   <>
+		desc
+
+=== Chapter 8 ===
+
+[25] Defeat Jr. Troopa
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[ 5] Help Buzzatrice
+	   <>
+		desc
+
+[ 1] Beeg Pebble Damage
+	   <>
+		desc
+
+[10] Defeat Dark Koopinator Unit
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[25] [m] Defeat the full Dark Koopinator Unit
+	   <>
+		desc
+
+[ 5] Tattle: Chapter 8
+	   <>
+		desc
+
+[ 5] Collectables: Chapter 8
+	   <>
+		desc
+
+[25] Defeat Defeat Bowser
+	   <>
+	Ch:<>
+	Pw:<>
+		desc
+
+[10] Defeat Defeat Bowser Challenge
+	   <>
+		desc
+
+[ 3] All Epilogue Passwords
+	   <>
+		desc
+
+=== Early Post-Game ===
+
+[ 5] Russ T. Dialogues/Password
+	   <>
+		desc
+
+[ 5] Defeat Jr. Troopa Refight
+	   <>
+		desc
+
+=== Chapter 9 | Dark Cavern ===
+[10] Defeat Toadinator
+	   <>
+	Pw:<>
+		desc
+
+[ 1] Fix Li'l Oink Machine
+	   <>
+		desc
+
+[ 3] Steal Mushrooms
+	   <>
+		desc
+
+[ 1] Get Dark Key
+	 <Keys to the Empire>
+		desc
+
+[25] Defeat Unstable Star
+	   <>
+	Pw:<>
+		desc
+
+=== Temple of Darkness ===
+
+[10] All Trials Cleared
+	   <The Seven Dark Allies> <Seven Dark Allies>
+	Pw:<>
+		desc
+
+[25] Defeat Boss
+	 <Shade Blade> <Shady Blade> <Shadowy Blade> <King of Darkness>
+	Pw:<>
+		desc
+
+=== Pit & Dark Cavern 100% ===
+
+[10] Pit Halfway
+	   <The Empire's Greatest Warriors>
+	Pw:<>
+		desc
+
+[50] Pit Full
+	   <The Banished Forces> <The Seal to the Banished Forces>
+	Pw:<>
+		desc
+
+[10] Tattle: Dark Cavern
+	   <Dark & Ancient Knowledge>
+		desc (incl. Pit bosses & ToD)
+
+[10] Collectables: Dark Cavern
+	   <The Ruined Empire's Treasures>
+		desc
+
+=== Dojo ===
+
+[ 1] Dojo 1: Defeat Chan
+	   <>
+	Pw:<>
+		desc
+
+[ 2] Dojo 2: Defeat Lee
+	   <>
+	Pw:<>
+		desc
+
+[ 4] Dojo 3: Defeat Master 1
+	   <>
+	Pw:<>
+		desc
+
+[ 5] Dojo 4: Defeat Master 2
+	   <>
+	Pw:<>
+		desc
+
+[10] Dojo 5: Defeat Master 3
+	   <>
+	Pw:<>
+		desc
+
+[25] Dojo 6: Defeat Master 4
+	   <>
+	Pw:<>
+		desc
+
+=== Star Palace ===
+
+[ 5] Goomba King EX
+	   <>
+	Pw:<>
+		desc
+
+[ 5] Koopa Bros. EX
+	   <>
+	Pw:<>
+		desc
+
+[ 5] Tutankoopa EX
+	   <>
+	Pw:<>
+		desc
+
+[10] General Guy EX
+	   <>
+	Pw:<>
+		desc
+
+[10] Lava Piranha EX
+	   <>
+	Pw:<>
+		desc
+
+[10] Huff N Puff EX
+	   <>
+	Pw:<>
+		desc
+
+[10] Crystal King EX
+	   <>
+	Pw:<>
+		desc
+
+[25] Dark Bowser EX
+	   <>
+	Pw:<>
+		desc
+
+[25] Normal Rush
+	   <>
+		desc
+
+[25] Dark Rush
+	   <>
+		desc
+
+=== 100% Stuff ===
+
+[10] Max Level
+	   <>
+		desc
+
+[10] Partners Max Ranks
+	   <>
+		desc
+
+[25] All Tattles
+	   <>
+		desc
+
+[ 5] Chuck Quizmo
+	   <>
+		desc
+
+[ 5] All Rowf Badges
+	   <>
+		desc
+
+[10] All Recipes
+	   <>
+		desc
+
+[ 5] 50% Star Pieces
+	   <>
+		desc
+
+[25] All Star Pieces
+	   <>
+		desc
+
+[ 5] [m] 50% Badges
+	   <>
+		desc (missable due to Peach)
+
+[10] [m] 75% Badges
+	   <>
+		desc (missable due to Peach)
+
+[25] [m] All Badges
+	   <>
+		desc (missable due to Peach)
+
+=== Final Stuff ===
+
+[  ] Clear EX Rush
+	   <>
+		desc
+
+[  ] Clear Crystal Hall
+	   <>
+		desc

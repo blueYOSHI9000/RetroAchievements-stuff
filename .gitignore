@@ -4,4 +4,5 @@
 *.mkv
 *.kdenlive
 *.log
+*.sublime-*
 desktop.ini

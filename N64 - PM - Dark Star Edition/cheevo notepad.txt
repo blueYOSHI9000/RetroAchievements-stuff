@@ -19,7 +19,7 @@
 
 [ 2] Defeat Jr. Troopa
 	   <>
-[ 1]Ch:<Early Menace> <Block Right!>
+[ 1]Ch:<Early Menace> <Block Right!> <Start of a Rivalry>
 	Pw:<>
 		Defeat the rude Jr. Troopa on Jr. Troopa's Playground.
 

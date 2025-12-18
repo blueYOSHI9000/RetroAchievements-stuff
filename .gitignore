@@ -6,3 +6,4 @@
 *.log
 *.sublime-*
 desktop.ini
+*FIFO Logs*
